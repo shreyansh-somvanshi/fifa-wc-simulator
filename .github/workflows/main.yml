@@ -1,0 +1,48 @@
+name: Refresh World Cup data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # results + form
+    - cron: '0 5 * * *'      # daily squads refresh
+  workflow_dispatch:
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch results + player form
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          WC_SEASON: '2026'
+        run: node scripts/fetch_results.js
+
+      - name: Fetch squads (daily run only)
+        if: github.event.schedule == '0 5 * * *' || github.event_name == 'workflow_dispatch'
+        env:
+          API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
+          WC_SEASON: '2026'
+        run: node scripts/fetch_squads.js
+
+      - name: Commit refreshed data (only if changed)
+        run: |
+          git config user.name "wc-data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "data: refresh $(date -u +%FT%TZ)"
+            git push
+          fi
