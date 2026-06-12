@@ -57,3 +57,4 @@ Then add the key as a repo secret (for the data Action):
 - League id / season: `scripts/lib/apifootball.js` (`LEAGUE_ID`) + `WC_SEASON`.
   Run `node scripts/check_api.js` to confirm what your plan exposes.
 - Rating model weights: `ELO_K`, `FORM_K`, `FORM_CAP` in `js/ratings.js`.
+- 
