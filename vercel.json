@@ -4,8 +4,5 @@
     "api/*.js": {
       "includeFiles": "{data,scripts}/**"
     }
-  },
-  "crons": [
-    { "path": "/api/results", "schedule": "*/10 * * * *" }
-  ]
+  }
 }
