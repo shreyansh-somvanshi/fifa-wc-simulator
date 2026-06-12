@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#070b1a" />
+  <title>FIFA World Cup 2026 · Live Hub</title>
+  <link rel="stylesheet" href="css/reset.css" />
+  <link rel="stylesheet" href="css/main.css" />
+  <link rel="stylesheet" href="css/components.css" />
+</head>
+<body>
+  <header class="app-header">
+    <a class="app-title" href="#/">🏆 <span class="wordmark">World Cup 26</span> <small>· Live Hub</small></a>
+    <nav class="nav-tabs" id="navTabs">
+      <span class="nav-indicator" aria-hidden="true"></span>
+      <a href="#/" data-route="home">Home</a>
+      <a href="#/standings" data-route="standings">Standings</a>
+      <a href="#/teams" data-route="teams">Teams</a>
+      <a href="#/simulator" data-route="simulator">Simulator</a>
+    </nav>
+  </header>
+
+  <div id="view" class="view"></div>
+
+  <!-- ===================== HOME (schedule) ===================== -->
+  <template id="tpl-home">
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="hero-badge">Jun 11 – Jul 19 · 🇨🇦 🇲🇽 🇺🇸</div>
+        <h1 class="hero-title">FIFA World Cup <span class="yr">26</span></h1>
+        <p class="hero-sub">48 nations. 104 matches. One trophy. Live scores, real squads, and a full tournament simulator.</p>
+        <div class="hero-stats" id="heroStats"></div>
+      </div>
+    </section>
+
+    <section class="filters schedule-filters">
+      <div class="search-box">
+        <input type="text" id="search" class="search-input" placeholder="Search team or group (e.g. Brazil, ARG, Group H)…" autocomplete="off" />
+        <ul id="searchResults" class="search-results" hidden></ul>
+      </div>
+      <div class="date-bar">
+        <div class="date-pills" id="datePills"></div>
+        <div class="date-pick">
+          <button type="button" id="datePickBtn" class="date-pick-btn" aria-haspopup="dialog" aria-expanded="false">
+            <span class="dp-ic">📅</span><span id="datePickLabel">Pick date</span>
+          </button>
+          <div id="datePopover" class="cal-popover" role="dialog" aria-label="Choose a date" hidden></div>
+        </div>
+        <button type="button" id="clearDate" class="btn-clear">Clear ✕</button>
+      </div>
+      <div class="stage-filter" id="stageFilter"></div>
+    </section>
+
+    <main class="match-list" id="matchList">
+      <div class="empty-state">Loading fixtures…</div>
+    </main>
+
+    <div id="predModal" class="modal" hidden aria-modal="true" role="dialog">
+      <div class="modal-backdrop" data-close></div>
+      <div class="modal-card">
+        <button class="modal-close" data-close aria-label="Close">×</button>
+        <div id="predModalBody"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- ===================== STANDINGS ===================== -->
+  <template id="tpl-standings">
+    <main class="sim-root">
+      <section class="sim-section">
+        <h2 class="sim-h2">Group standings <small id="standingsStatus">· live table</small></h2>
+        <div id="groups" class="groups-grid"></div>
+      </section>
+      <section class="sim-section">
+        <h2 class="sim-h2">Knockout bracket <small>· fills in as groups are decided</small></h2>
+        <div id="bracket" class="bracket"></div>
+      </section>
+    </main>
+  </template>
+
+  <!-- ===================== TEAMS ===================== -->
+  <template id="tpl-teams">
+    <section class="filters">
+      <div id="teamPicker" class="team-picker">
+        <input type="text" id="teamSearchInput" class="search-input" placeholder="Search a team…" autocomplete="off" spellcheck="false" />
+        <ul id="teamSearchResults" class="search-results" hidden></ul>
+      </div>
+    </section>
+    <main id="teamRoot" class="team-root">
+      <div id="teamHeader"></div>
+      <nav class="team-tab-nav">
+        <button class="team-tab active" data-tab="BestXI">Best XI</button>
+        <button class="team-tab" data-tab="Squad">Squad</button>
+        <button class="team-tab" data-tab="Fixtures">Fixtures</button>
+      </nav>
+      <section id="tabBestXI" class="tab-panel active"></section>
+      <section id="tabSquad" class="tab-panel"></section>
+      <section id="tabFixtures" class="tab-panel"></section>
+    </main>
+  </template>
+
+  <!-- ===================== SIMULATOR ===================== -->
+  <template id="tpl-simulator">
+    <section class="filters sim-controls-bar">
+      <div class="sim-controls">
+        <button class="btn primary" id="reSimBtn">🎲 Re-simulate</button>
+        <button class="btn" id="resetBtn">Reset</button>
+        <span id="dataAsOf" class="seed-label"></span>
+      </div>
+    </section>
+    <main class="sim-root">
+      <section class="sim-info">
+        <div class="sim-info-head">
+          <span class="sim-info-ic">🧠</span>
+          <h2>How the simulator works</h2>
+        </div>
+        <ol class="sim-info-points">
+          <li>
+            <span class="sip-n">1</span>
+            <p><strong>1,000 tournaments, every time.</strong> Each run plays out the whole bracket — group stage through the final — on a seeded dice roll, then we tally how often each nation advances and lifts the trophy.</p>
+          </li>
+          <li>
+            <span class="sip-n">2</span>
+            <p><strong>Odds from real team strength.</strong> Every match is modelled from squad quality (player ratings) and FIFA ranking, with goals drawn from a Poisson model. Matches already played are locked in as actual results.</p>
+          </li>
+          <li>
+            <span class="sip-n">3</span>
+            <p><strong>Ratings that move with the tournament.</strong> Results and live player match-ratings nudge each team's strength up or down, so the win probabilities shift as form changes.</p>
+          </li>
+        </ol>
+        <p class="sim-info-note">
+          <span class="note-ic">📡</span>
+          <span>Live World Cup performance is folded in too — so once every team has played its opening match, the projections get noticeably sharper.</span>
+        </p>
+      </section>
+
+      <section id="champion" class="sim-section"></section>
+      <section class="sim-section">
+        <h2 class="sim-h2">Tournament odds <small id="oddsCount">· running 1,000 simulations…</small></h2>
+        <div id="odds" class="odds-panel">
+          <div class="odds-loading">
+            <div class="odds-progress"><div id="oddsProgressFill" class="odds-progress-fill"></div></div>
+            <div id="oddsProgressText" class="odds-progress-text">0%</div>
+          </div>
+        </div>
+      </section>
+      <section class="sim-section">
+        <h2 class="sim-h2">Knockout bracket <small>(this run)</small></h2>
+        <div id="bracket" class="bracket"></div>
+      </section>
+      <section class="sim-section">
+        <h2 class="sim-h2">Group stage</h2>
+        <div id="groups" class="groups-grid"></div>
+      </section>
+      <section class="sim-section">
+        <h2 class="sim-h2">Best 3rd-placers <small>(top 8 advance to R32)</small></h2>
+        <div id="thirds"></div>
+      </section>
+    </main>
+    <div id="matchModal" class="modal" hidden aria-modal="true" role="dialog">
+      <div class="modal-backdrop" data-close></div>
+      <div class="modal-card">
+        <button class="modal-close" data-close aria-label="Close">×</button>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+  </template>
+
+  <script src="js/utils.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/predict.js"></script>
+  <script src="js/ratings.js"></script>
+  <script src="js/sim.js"></script>
+  <script src="js/schedule.js"></script>
+  <script src="js/standings.js"></script>
+  <script src="js/team.js"></script>
+  <script src="js/simulator.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

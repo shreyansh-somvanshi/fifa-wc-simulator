@@ -1,0 +1,22 @@
+{
+  "venues": [
+    { "id": "MEX-CDMX", "name": "Estadio Azteca",         "city": "Mexico City",          "country": "Mexico",        "capacity": 83000, "tz": "America/Mexico_City" },
+    { "id": "MEX-MTY",  "name": "Estadio BBVA",           "city": "Monterrey",            "country": "Mexico",        "capacity": 53500, "tz": "America/Monterrey" },
+    { "id": "MEX-GDL",  "name": "Estadio Akron",          "city": "Guadalajara",          "country": "Mexico",        "capacity": 48000, "tz": "America/Mexico_City" },
+
+    { "id": "CAN-VAN",  "name": "BC Place",               "city": "Vancouver",            "country": "Canada",        "capacity": 54000, "tz": "America/Vancouver" },
+    { "id": "CAN-TOR",  "name": "BMO Field",              "city": "Toronto",              "country": "Canada",        "capacity": 45000, "tz": "America/Toronto" },
+
+    { "id": "USA-DAL",  "name": "AT&T Stadium",           "city": "Dallas",               "country": "United States", "capacity": 94000, "tz": "America/Chicago" },
+    { "id": "USA-ATL",  "name": "Mercedes-Benz Stadium",  "city": "Atlanta",              "country": "United States", "capacity": 75000, "tz": "America/New_York" },
+    { "id": "USA-KAN",  "name": "Arrowhead Stadium",      "city": "Kansas City",          "country": "United States", "capacity": 73000, "tz": "America/Chicago" },
+    { "id": "USA-HOU",  "name": "NRG Stadium",            "city": "Houston",              "country": "United States", "capacity": 72000, "tz": "America/Chicago" },
+    { "id": "USA-SFO",  "name": "Levi's Stadium",         "city": "San Francisco Bay",    "country": "United States", "capacity": 71000, "tz": "America/Los_Angeles" },
+    { "id": "USA-LAX",  "name": "SoFi Stadium",           "city": "Los Angeles",          "country": "United States", "capacity": 70000, "tz": "America/Los_Angeles" },
+    { "id": "USA-PHI",  "name": "Lincoln Financial Field","city": "Philadelphia",         "country": "United States", "capacity": 69000, "tz": "America/New_York" },
+    { "id": "USA-SEA",  "name": "Lumen Field",            "city": "Seattle",              "country": "United States", "capacity": 69000, "tz": "America/Los_Angeles" },
+    { "id": "USA-BOS",  "name": "Gillette Stadium",       "city": "Boston",               "country": "United States", "capacity": 65000, "tz": "America/New_York" },
+    { "id": "USA-MIA",  "name": "Hard Rock Stadium",      "city": "Miami",                "country": "United States", "capacity": 65000, "tz": "America/New_York" },
+    { "id": "USA-NYC",  "name": "MetLife Stadium",        "city": "New York/New Jersey",  "country": "United States", "capacity": 82500, "tz": "America/New_York" }
+  ]
+}

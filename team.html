@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting…</title>
+  <script>
+    // Preserve ?code=XYZ from old links -> #/teams/XYZ
+    var c = new URLSearchParams(location.search).get('code');
+    location.replace('index.html#/teams' + (c ? '/' + encodeURIComponent(c) : ''));
+  </script>
+</head>
+<body><a href="index.html#/teams">Continue to the World Cup hub →</a></body>
+</html>

@@ -1,0 +1,7587 @@
+{
+  "CZE": [
+    {
+      "name": "L. Provod",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "V. Darida",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Hradec Králové"
+    },
+    {
+      "name": "T. Chorý",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "T. Holes",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "P. Sulc",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Lyon"
+    },
+    {
+      "name": "P. Schick",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "M. Kovár",
+      "pos": "GK",
+      "rating": 78,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "S. Chaloupek",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "V. Coufal",
+      "pos": "CB",
+      "rating": 78,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "D. Jurásek",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "M. Chytil",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "J. Kuchta",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Sparta Praha"
+    },
+    {
+      "name": "D. Doudera",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "L. Cerv",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Plzen"
+    },
+    {
+      "name": "D. Visinský",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Plzen"
+    },
+    {
+      "name": "L. Hornícek",
+      "pos": "GK",
+      "rating": 76,
+      "club": "SC Braga"
+    },
+    {
+      "name": "J. Stanek",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "J. Zelený",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Sparta Praha"
+    },
+    {
+      "name": "M. Sadílek",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "T. Soucek",
+      "pos": "CM",
+      "rating": 75,
+      "club": "West Ham"
+    },
+    {
+      "name": "A. Hlozek",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Czech Republic"
+    },
+    {
+      "name": "A. Sojka",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Hradec Králové"
+    },
+    {
+      "name": "D. Zima",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Slavia Praha"
+    },
+    {
+      "name": "R. Hranác",
+      "pos": "CB",
+      "rating": 72,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "L. Krejcí",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Wolves"
+    },
+    {
+      "name": "H. Sochurek",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Sparta Praha"
+    }
+  ],
+  "MEX": [
+    {
+      "name": "J. Quiñones",
+      "pos": "CM",
+      "rating": 88,
+      "club": "Al-Qadisiyah FC"
+    },
+    {
+      "name": "A. Vega",
+      "pos": "ST",
+      "rating": 87,
+      "club": "Toluca"
+    },
+    {
+      "name": "G. Mora",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Club Tijuana"
+    },
+    {
+      "name": "O. Pineda",
+      "pos": "CM",
+      "rating": 81,
+      "club": "AEK Athens FC"
+    },
+    {
+      "name": "A. González",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Guadalajara Chivas"
+    },
+    {
+      "name": "C. Montes",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Lokomotiv"
+    },
+    {
+      "name": "B. Gutiérrez",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Chicago Fire"
+    },
+    {
+      "name": "G. Martínez",
+      "pos": "ST",
+      "rating": 79,
+      "club": "U.N.A.M. - Pumas"
+    },
+    {
+      "name": "O. Vargas",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Seattle Sounders"
+    },
+    {
+      "name": "R. Alvarado",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Guadalajara Chivas"
+    },
+    {
+      "name": "I. Reyes",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Club America"
+    },
+    {
+      "name": "E. Álvarez",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "Álvaro Fidalgo",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Club America"
+    },
+    {
+      "name": "L. Romo",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Guadalajara Chivas"
+    },
+    {
+      "name": "J. Gallardo",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Toluca"
+    },
+    {
+      "name": "C. Acevedo",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Santos Laguna"
+    },
+    {
+      "name": "J. Vásquez",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Genoa"
+    },
+    {
+      "name": "R. Jiménez",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Fulham"
+    },
+    {
+      "name": "J. Rangel",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Guadalajara Chivas"
+    },
+    {
+      "name": "M. Chávez",
+      "pos": "CB",
+      "rating": 73,
+      "club": "AZ Alkmaar"
+    },
+    {
+      "name": "É. Lira",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Cruz Azul"
+    },
+    {
+      "name": "S. Giménez",
+      "pos": "ST",
+      "rating": 73,
+      "club": "AC Milan"
+    },
+    {
+      "name": "J. Sánchez",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Cruz Azul"
+    },
+    {
+      "name": "L. Chávez",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Dynamo"
+    },
+    {
+      "name": "C. Huerta",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Anderlecht"
+    },
+    {
+      "name": "G. Ochoa",
+      "pos": "GK",
+      "rating": 66,
+      "club": "AEL"
+    }
+  ],
+  "RSA": [
+    {
+      "name": "R. Mofokeng",
+      "pos": "ST",
+      "rating": 86,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "O. Appollis",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "T. Matuludi",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Polokwane City"
+    },
+    {
+      "name": "T. Mokoena",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "S. Kabini",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Molde"
+    },
+    {
+      "name": "T. Mbatha",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "R. Goss",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Siwelele"
+    },
+    {
+      "name": "B. Cross",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Kaizer Chiefs"
+    },
+    {
+      "name": "M. Mbokazi",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "K. Ndamane",
+      "pos": "CB",
+      "rating": 78,
+      "club": "TS Galaxy"
+    },
+    {
+      "name": "I. Rayners",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "R. Williams",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "A. Modiba",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "K. Mudau",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "J. Adams",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "E. Makgopa",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "K. Sebelebele",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "S. Chaine",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "O. Makhanya",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Philadelphia Union"
+    },
+    {
+      "name": "N. Sibisi",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "L. Foster",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Burnley"
+    },
+    {
+      "name": "T. Moremi",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Orlando Pirates"
+    },
+    {
+      "name": "I. Okon",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Hannover 96"
+    },
+    {
+      "name": "S. Sithole",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Tondela"
+    },
+    {
+      "name": "T. Zwane",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Mamelodi Sundowns"
+    },
+    {
+      "name": "T. Maseko",
+      "pos": "ST",
+      "rating": 69,
+      "club": "AEL"
+    }
+  ],
+  "KOR": [
+    {
+      "name": "Son Heung-Min",
+      "pos": "ST",
+      "rating": 95,
+      "club": "Los Angeles FC"
+    },
+    {
+      "name": "Lee Dong-Gyeong",
+      "pos": "ST",
+      "rating": 86,
+      "club": "Gimcheon Sangmu FC"
+    },
+    {
+      "name": "Song Bum-Keun",
+      "pos": "GK",
+      "rating": 82,
+      "club": "Jeonbuk Motors"
+    },
+    {
+      "name": "Park Jin-Seop",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Jeonbuk Motors"
+    },
+    {
+      "name": "Oh Hyeon-Gyu",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Genk"
+    },
+    {
+      "name": "Kim Min-Jae",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Bayern München"
+    },
+    {
+      "name": "Seol Young-Woo",
+      "pos": "CM",
+      "rating": 78,
+      "club": "FK Crvena Zvezda"
+    },
+    {
+      "name": "Lee Gi-Hyuk",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Gangwon FC"
+    },
+    {
+      "name": "Lee Kang-In",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Kim Moon-Hwan",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Daejeon Citizen"
+    },
+    {
+      "name": "Lee Tae-Seok",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Austria Vienna"
+    },
+    {
+      "name": "Hwang In-Beom",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "Kim Jin-Gyu",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Jeonbuk Motors"
+    },
+    {
+      "name": "Jo Hyeon-Woo",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Ulsan Hyundai FC"
+    },
+    {
+      "name": "Kim Tae-Hyeon",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Kashima"
+    },
+    {
+      "name": "Lee Han-Beom",
+      "pos": "CB",
+      "rating": 75,
+      "club": "FC Midtjylland"
+    },
+    {
+      "name": "Eom Ji-Sung",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Swansea"
+    },
+    {
+      "name": "Paik Seung-Ho",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Birmingham"
+    },
+    {
+      "name": "Kim Seung-Gyu",
+      "pos": "GK",
+      "rating": 74,
+      "club": "FC Tokyo"
+    },
+    {
+      "name": "Yang Hyun-Jun",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Celtic"
+    },
+    {
+      "name": "Bae Jun-Ho",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Stoke City"
+    },
+    {
+      "name": "Lee Jae-Sung",
+      "pos": "CM",
+      "rating": 73,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "Hwang Hee-Chan",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Wolves"
+    },
+    {
+      "name": "J. Castrop",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "name": "Cho Gue-Sung",
+      "pos": "ST",
+      "rating": 71,
+      "club": "FC Midtjylland"
+    },
+    {
+      "name": "Cho Wi-Je",
+      "pos": "CB",
+      "rating": 67,
+      "club": ""
+    }
+  ],
+  "BIH": [
+    {
+      "name": "J. Lukic",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Universitatea Cluj"
+    },
+    {
+      "name": "Kerim-Sam Alajbegovic",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Red Bull Salzburg"
+    },
+    {
+      "name": "E. Bajraktarevic",
+      "pos": "ST",
+      "rating": 81,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "E. Dzeko",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "S. Radeljic",
+      "pos": "CB",
+      "rating": 79,
+      "club": "HNK Rijeka"
+    },
+    {
+      "name": "N. Vasilj",
+      "pos": "GK",
+      "rating": 78,
+      "club": "FC St. Pauli"
+    },
+    {
+      "name": "I. Basic",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Bosnia-Herzegovina U21"
+    },
+    {
+      "name": "Ermin Mahmic",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Slovan Liberec"
+    },
+    {
+      "name": "N. Katic",
+      "pos": "CB",
+      "rating": 76,
+      "club": "FC Schalke 04"
+    },
+    {
+      "name": "A. Memic",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Plzen"
+    },
+    {
+      "name": "E. Demirovic",
+      "pos": "ST",
+      "rating": 76,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "H. Tabakovic",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "name": "M. Zlomislic",
+      "pos": "GK",
+      "rating": 75,
+      "club": "HNK Rijeka"
+    },
+    {
+      "name": "T. Muharemovic",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Sassuolo"
+    },
+    {
+      "name": "A. Dedic",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Benfica"
+    },
+    {
+      "name": "D. Hadzikadunic",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Sampdoria"
+    },
+    {
+      "name": "S. Bazdar",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Jagiellonia"
+    },
+    {
+      "name": "S. Kolasinac",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Atalanta"
+    },
+    {
+      "name": "A. Gigovic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "BSC Young Boys"
+    },
+    {
+      "name": "A. Hadziahmetovic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Hull City"
+    },
+    {
+      "name": "I. Sunjic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Pafos"
+    },
+    {
+      "name": "B. Tahirovic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Brondby"
+    },
+    {
+      "name": "N. Mujakic",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Eyüpspor"
+    },
+    {
+      "name": "D. Burnic",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Karlsruher SC"
+    },
+    {
+      "name": "N. Celik",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Lens"
+    },
+    {
+      "name": "M. Jurkas",
+      "pos": "GK",
+      "rating": 63,
+      "club": "Bosnia-Herzegovina U17"
+    }
+  ],
+  "CAN": [
+    {
+      "name": "T. Oluwaseyi",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Minnesota United FC"
+    },
+    {
+      "name": "P. David",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Union St. Gilloise"
+    },
+    {
+      "name": "A. Ahmed",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Vancouver Whitecaps"
+    },
+    {
+      "name": "D. St. Clair",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Minnesota United FC"
+    },
+    {
+      "name": "D. Cornelius",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Rangers"
+    },
+    {
+      "name": "A. Johnston",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Celtic"
+    },
+    {
+      "name": "N. Sigur",
+      "pos": "CM",
+      "rating": 78,
+      "club": "HNK Hajduk Split"
+    },
+    {
+      "name": "M. Choinière",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Los Angeles FC"
+    },
+    {
+      "name": "I. Koné",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Sassuolo"
+    },
+    {
+      "name": "M. Crépeau",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Portland Timbers"
+    },
+    {
+      "name": "R. Laryea",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Toronto FC"
+    },
+    {
+      "name": "J. Osorio",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Toronto FC"
+    },
+    {
+      "name": "A. Jones",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Middlesbrough"
+    },
+    {
+      "name": "A. Davies",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Bayern München"
+    },
+    {
+      "name": "J. Shaffelburg",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Nashville SC"
+    },
+    {
+      "name": "N. Saliba",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Anderlecht"
+    },
+    {
+      "name": "T. Buchanan",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Villarreal"
+    },
+    {
+      "name": "C. Larin",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Southampton"
+    },
+    {
+      "name": "J. Waterman",
+      "pos": "CB",
+      "rating": 74,
+      "club": "CF Montreal"
+    },
+    {
+      "name": "L. Millar",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Hull City"
+    },
+    {
+      "name": "M. Flores",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Tigres UANL"
+    },
+    {
+      "name": "J. David",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Juventus"
+    },
+    {
+      "name": "L. De Fougerolles",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Dender"
+    },
+    {
+      "name": "S. Eustáquio",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Canada"
+    },
+    {
+      "name": "O. Goodman",
+      "pos": "GK",
+      "rating": 71,
+      "club": "Barnsley"
+    },
+    {
+      "name": "M. Bombito",
+      "pos": "CB",
+      "rating": 65,
+      "club": "Nice"
+    }
+  ],
+  "QAT": [
+    {
+      "name": "Akram Afif",
+      "pos": "ST",
+      "rating": 91,
+      "club": "Al Sadd"
+    },
+    {
+      "name": "Edmilson Junior",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Al-Duhail SC"
+    },
+    {
+      "name": "Ahmed Fathi",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Al-Arabi SC"
+    },
+    {
+      "name": "Almoez Ali",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Qatar"
+    },
+    {
+      "name": "Mohamed Al Manai",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Al Shamal"
+    },
+    {
+      "name": "Salah Zakaria",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Al-Duhail SC"
+    },
+    {
+      "name": "Lucas Mendes",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Al Wakrah"
+    },
+    {
+      "name": "Mahmud Abunada",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Al-Rayyan SC"
+    },
+    {
+      "name": "Boualem Khoukhi",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Al Sadd"
+    },
+    {
+      "name": "Meshaal Barsham",
+      "pos": "GK",
+      "rating": 72,
+      "club": "Al Sadd"
+    },
+    {
+      "name": "Ahmed Al Ganehi",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Al-Gharafa"
+    },
+    {
+      "name": "Y. Abdurisag",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Al Wakrah"
+    },
+    {
+      "name": "Karim Boudiaf",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Al-Duhail SC"
+    },
+    {
+      "name": "Ahmed Alaa",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Al-Rayyan SC"
+    },
+    {
+      "name": "Sultan Al Braik",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Al-Duhail SC"
+    },
+    {
+      "name": "Jassem Gaber",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Al-Rayyan SC"
+    },
+    {
+      "name": "Assim Madibo",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Al Wakrah"
+    },
+    {
+      "name": "Hassan Al Haydos",
+      "pos": "ST",
+      "rating": 70,
+      "club": "Al Sadd"
+    },
+    {
+      "name": "Homam Ahmed",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Cultural Leonesa"
+    },
+    {
+      "name": "Pedro Miguel",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Al Sadd"
+    },
+    {
+      "name": "Abdulaziz Hatem",
+      "pos": "CM",
+      "rating": 68,
+      "club": "Al-Rayyan SC"
+    },
+    {
+      "name": "Tahsin Jamshid",
+      "pos": "ST",
+      "rating": 68,
+      "club": "Qatar U20"
+    },
+    {
+      "name": "G. Laye",
+      "pos": "CM",
+      "rating": 67,
+      "club": "Al-Arabi SC"
+    },
+    {
+      "name": "Mohammed Muntari",
+      "pos": "ST",
+      "rating": 65,
+      "club": "Al-Gharafa"
+    },
+    {
+      "name": "A. Al Hussain",
+      "pos": "CB",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "A. Al Oui",
+      "pos": "CB",
+      "rating": 63,
+      "club": ""
+    }
+  ],
+  "SUI": [
+    {
+      "name": "G. Xhaka",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Sunderland"
+    },
+    {
+      "name": "J. Manzambi",
+      "pos": "ST",
+      "rating": 81,
+      "club": "SC Freiburg"
+    },
+    {
+      "name": "C. Fassnacht",
+      "pos": "CM",
+      "rating": 79,
+      "club": "BSC Young Boys"
+    },
+    {
+      "name": "C. Itten",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Fortuna Düsseldorf"
+    },
+    {
+      "name": "M. Keller",
+      "pos": "GK",
+      "rating": 78,
+      "club": "BSC Young Boys"
+    },
+    {
+      "name": "G. Kobel",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "N. Okafor",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Leeds"
+    },
+    {
+      "name": "M. Akanji",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Inter"
+    },
+    {
+      "name": "N. Elvedi",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "name": "M. Muheim",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Hamburger SV"
+    },
+    {
+      "name": "D. Zakaria",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Monaco"
+    },
+    {
+      "name": "B. Embolo",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Rennes"
+    },
+    {
+      "name": "Y. Mvogo",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Lorient"
+    },
+    {
+      "name": "F. Rieder",
+      "pos": "CM",
+      "rating": 76,
+      "club": "FC Augsburg"
+    },
+    {
+      "name": "R. Vargas",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Sevilla"
+    },
+    {
+      "name": "M. Aebischer",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Pisa"
+    },
+    {
+      "name": "L. Jaquez",
+      "pos": "CB",
+      "rating": 74,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "S. Widmer",
+      "pos": "CB",
+      "rating": 74,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "R. Freuler",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Bologna"
+    },
+    {
+      "name": "A. Jashari",
+      "pos": "CM",
+      "rating": 74,
+      "club": "AC Milan"
+    },
+    {
+      "name": "D. Sow",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Sevilla"
+    },
+    {
+      "name": "E. Cömert",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Valencia"
+    },
+    {
+      "name": "D. Ndoye",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "R. Rodríguez",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Real Betis"
+    },
+    {
+      "name": "A. Amenda",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "Z. Amdouni",
+      "pos": "ST",
+      "rating": 69,
+      "club": "Burnley"
+    }
+  ],
+  "BRA": [
+    {
+      "name": "Raphinha",
+      "pos": "CM",
+      "rating": 89,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Vinícius Júnior",
+      "pos": "ST",
+      "rating": 86,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "Neymar",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Santos"
+    },
+    {
+      "name": "Ibañez",
+      "pos": "CB",
+      "rating": 82,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Newcastle"
+    },
+    {
+      "name": "Endrick",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Lyon"
+    },
+    {
+      "name": "Casemiro",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Manchester United"
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Arsenal"
+    },
+    {
+      "name": "Matheus Cunha",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Manchester United"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Arsenal"
+    },
+    {
+      "name": "Rayan",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Vasco DA Gama"
+    },
+    {
+      "name": "Thiago",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Brentford"
+    },
+    {
+      "name": "Léo Pereira",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Flamengo"
+    },
+    {
+      "name": "Marquinhos",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Douglas Santos",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Zenit"
+    },
+    {
+      "name": "Wesley",
+      "pos": "CB",
+      "rating": 78,
+      "club": "AS Roma"
+    },
+    {
+      "name": "Danilo",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Flamengo"
+    },
+    {
+      "name": "Fabinho",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Al-Ittihad FC"
+    },
+    {
+      "name": "Luiz Henrique",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Zenit"
+    },
+    {
+      "name": "Bremer",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Juventus"
+    },
+    {
+      "name": "Danilo Santos",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Botafogo"
+    },
+    {
+      "name": "Lucas Paquetá",
+      "pos": "CM",
+      "rating": 76,
+      "club": "West Ham"
+    },
+    {
+      "name": "Ederson",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "Alisson Becker",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Liverpool"
+    },
+    {
+      "name": "Alex Sandro",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Flamengo"
+    },
+    {
+      "name": "Weverton",
+      "pos": "GK",
+      "rating": 72,
+      "club": "Palmeiras"
+    }
+  ],
+  "HAI": [
+    {
+      "name": "L. Joseph",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Ferencvarosi TC"
+    },
+    {
+      "name": "H. Delcroix",
+      "pos": "CB",
+      "rating": 77,
+      "club": "FC Lugano"
+    },
+    {
+      "name": "Ricardo Ade",
+      "pos": "CB",
+      "rating": 76,
+      "club": "LDU de Quito"
+    },
+    {
+      "name": "D. Jean-Jacques",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Philadelphia Union"
+    },
+    {
+      "name": "L. Deedson",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Haiti"
+    },
+    {
+      "name": "W. Paugain",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Zulte Waregem"
+    },
+    {
+      "name": "D. Etienne",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Toronto FC"
+    },
+    {
+      "name": "F. Pierrot",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Haiti"
+    },
+    {
+      "name": "J. Bellegarde",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Wolves"
+    },
+    {
+      "name": "W. Isidor",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Sunderland"
+    },
+    {
+      "name": "C. Arcus",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Angers"
+    },
+    {
+      "name": "R. Providence",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Haiti"
+    },
+    {
+      "name": "M. Expérience",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Nancy"
+    },
+    {
+      "name": "J. Casimir",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Auxerre"
+    },
+    {
+      "name": "J. Placide",
+      "pos": "GK",
+      "rating": 70,
+      "club": "Bastia"
+    },
+    {
+      "name": "J. Duverne",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Gent"
+    },
+    {
+      "name": "D. Nazon",
+      "pos": "ST",
+      "rating": 70,
+      "club": "Kayserispor"
+    },
+    {
+      "name": "D. Simon",
+      "pos": "CM",
+      "rating": 68,
+      "club": "Tatran Prešov"
+    },
+    {
+      "name": "Y. Fortuné",
+      "pos": "ST",
+      "rating": 68,
+      "club": "Vizela"
+    },
+    {
+      "name": "L. Pierre",
+      "pos": "CM",
+      "rating": 63,
+      "club": "Haiti"
+    },
+    {
+      "name": "W. Pierre",
+      "pos": "CM",
+      "rating": 63,
+      "club": "Real du Cap"
+    },
+    {
+      "name": "J. Duverger",
+      "pos": "GK",
+      "rating": 61,
+      "club": ""
+    },
+    {
+      "name": "A. Pierre",
+      "pos": "GK",
+      "rating": 61,
+      "club": "Sochaux"
+    },
+    {
+      "name": "K. Thermoncy",
+      "pos": "CB",
+      "rating": 61,
+      "club": "BSC Young Boys"
+    },
+    {
+      "name": "D. Lacroix",
+      "pos": "CB",
+      "rating": 61,
+      "club": "Colorado Springs"
+    },
+    {
+      "name": "C. F. Sainte",
+      "pos": "CM",
+      "rating": 61,
+      "club": ""
+    }
+  ],
+  "MAR": [
+    {
+      "name": "A. Ounahi",
+      "pos": "CM",
+      "rating": 84,
+      "club": "Girona"
+    },
+    {
+      "name": "A. Amaimouni",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Hoffenheim II"
+    },
+    {
+      "name": "A. Ezzalzouli",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Real Betis"
+    },
+    {
+      "name": "I. Saibari",
+      "pos": "ST",
+      "rating": 82,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "Gessime Yassine",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Dunkerque"
+    },
+    {
+      "name": "S. Rahimi",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Al Ain"
+    },
+    {
+      "name": "Z. El Ouahdi",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Genk"
+    },
+    {
+      "name": "B. El Khannouss",
+      "pos": "CM",
+      "rating": 79,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "A. Tagnaouti",
+      "pos": "GK",
+      "rating": 78,
+      "club": "FAR Rabat"
+    },
+    {
+      "name": "A. Hakimi",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "N. Mazraoui",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Manchester United"
+    },
+    {
+      "name": "Brahim Díaz",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "N. Aguerd",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Marseille"
+    },
+    {
+      "name": "N. El Aynaoui",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Lens"
+    },
+    {
+      "name": "S. El Mourabet",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "Y. Belammari",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "S. Amrabat",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Real Betis"
+    },
+    {
+      "name": "A. El Kaabi",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Olympiakos Piraeus"
+    },
+    {
+      "name": "Y. Bounou",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "R. Halhal",
+      "pos": "CB",
+      "rating": 74,
+      "club": "KV Mechelen"
+    },
+    {
+      "name": "I. Diop",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Fulham"
+    },
+    {
+      "name": "A. Salah-Eddine",
+      "pos": "CB",
+      "rating": 72,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "A. Bouaddi",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Lille"
+    },
+    {
+      "name": "C. Talbi",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Sunderland"
+    },
+    {
+      "name": "M. Mohamedi",
+      "pos": "GK",
+      "rating": 70,
+      "club": "Morocco"
+    },
+    {
+      "name": "C. Riad",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Crystal Palace"
+    }
+  ],
+  "SCO": [
+    {
+      "name": "L. Shankland",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Heart Of Midlothian"
+    },
+    {
+      "name": "Findlay Curtis",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Kilmarnock"
+    },
+    {
+      "name": "J. Souttar",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Rangers"
+    },
+    {
+      "name": "R. Stewart",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Southampton"
+    },
+    {
+      "name": "S. McKenna",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Dinamo Zagreb"
+    },
+    {
+      "name": "K. Tierney",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Celtic"
+    },
+    {
+      "name": "J.  McGinn",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "K. McLean",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Norwich"
+    },
+    {
+      "name": "S. McTominay",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Napoli"
+    },
+    {
+      "name": "C. Adams",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Torino"
+    },
+    {
+      "name": "A. Ralston",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Celtic"
+    },
+    {
+      "name": "A. Robertson",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Liverpool"
+    },
+    {
+      "name": "G. Hirst",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Ipswich"
+    },
+    {
+      "name": "J. Hendry",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Al-Ettifaq"
+    },
+    {
+      "name": "A. Hickey",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Brentford"
+    },
+    {
+      "name": "D. Hyam",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Wrexham"
+    },
+    {
+      "name": "L. Ferguson",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Bologna"
+    },
+    {
+      "name": "B. Doak",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Scotland"
+    },
+    {
+      "name": "R. Christie",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Bournemouth"
+    },
+    {
+      "name": "L. Dykes",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Charlton"
+    },
+    {
+      "name": "G. Hanley",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Hibernian"
+    },
+    {
+      "name": "N. Patterson",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Everton"
+    },
+    {
+      "name": "C. Gordon",
+      "pos": "GK",
+      "rating": 68,
+      "club": "Scotland"
+    },
+    {
+      "name": "T. Fletcher",
+      "pos": "CM",
+      "rating": 65,
+      "club": "Manchester United U21"
+    },
+    {
+      "name": "A. Gunn",
+      "pos": "GK",
+      "rating": 64,
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "L. Kelly",
+      "pos": "GK",
+      "rating": 64,
+      "club": "Scotland"
+    }
+  ],
+  "AUS": [
+    {
+      "name": "Paul Okon-Engstler",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Sydney"
+    },
+    {
+      "name": "M. Touré",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Randers FC"
+    },
+    {
+      "name": "P. Izzo",
+      "pos": "GK",
+      "rating": 79,
+      "club": "Randers FC"
+    },
+    {
+      "name": "M. Ryan",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Levante"
+    },
+    {
+      "name": "J. Bos",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "A. Hrustic",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Heracles"
+    },
+    {
+      "name": "J. Italiano",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Grazer AK"
+    },
+    {
+      "name": "K. Trewin",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Melbourne City"
+    },
+    {
+      "name": "P. Beach",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Melbourne City"
+    },
+    {
+      "name": "C. Burgess",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Swansea"
+    },
+    {
+      "name": "A. Circati",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Parma"
+    },
+    {
+      "name": "C. Devlin",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Heart Of Midlothian"
+    },
+    {
+      "name": "C. Volpato",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Sassuolo"
+    },
+    {
+      "name": "A. Behich",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Melbourne City"
+    },
+    {
+      "name": "L. Herrington",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Australia U20"
+    },
+    {
+      "name": "N. Irankunda",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Watford"
+    },
+    {
+      "name": "T. Yengi",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Livingston"
+    },
+    {
+      "name": "A. O Neill",
+      "pos": "CM",
+      "rating": 74,
+      "club": "New York City FC"
+    },
+    {
+      "name": "A. Mabil",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Castellón"
+    },
+    {
+      "name": "N. Velupillay",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Melbourne Victory"
+    },
+    {
+      "name": "M. Degenek",
+      "pos": "CB",
+      "rating": 73,
+      "club": "TSC Backa Topola"
+    },
+    {
+      "name": "J. Geria",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Albirex Niigata"
+    },
+    {
+      "name": "J. Irvine",
+      "pos": "CM",
+      "rating": 72,
+      "club": "FC St. Pauli"
+    },
+    {
+      "name": "C. Metcalfe",
+      "pos": "CM",
+      "rating": 72,
+      "club": "FC St. Pauli"
+    },
+    {
+      "name": "H. Souttar",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Leicester"
+    },
+    {
+      "name": "M. Leckie",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Melbourne City"
+    }
+  ],
+  "PAR": [
+    {
+      "name": "J. Enciso",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "G. Gómez",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "J. Canale",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Lanus"
+    },
+    {
+      "name": "M. Almirón",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Atlanta United FC"
+    },
+    {
+      "name": "A. Arce",
+      "pos": "ST",
+      "rating": 80,
+      "club": "LDU de Quito"
+    },
+    {
+      "name": "Maurício",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "G. Ávalos",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Independiente"
+    },
+    {
+      "name": "I. Pitta",
+      "pos": "ST",
+      "rating": 79,
+      "club": "RB Bragantino"
+    },
+    {
+      "name": "G. Velázquez",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Cerro Porteno"
+    },
+    {
+      "name": "A. Romero",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Al Ain"
+    },
+    {
+      "name": "J. Cáceres",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Dynamo"
+    },
+    {
+      "name": "D. Bobadilla",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Sao Paulo"
+    },
+    {
+      "name": "B. Ojeda",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Real Salt Lake"
+    },
+    {
+      "name": "G. Olveira",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Olimpia"
+    },
+    {
+      "name": "A. Maidana",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Club Guarani"
+    },
+    {
+      "name": "A. Cubas",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Vancouver Whitecaps"
+    },
+    {
+      "name": "R. Sosa",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "O. Gill",
+      "pos": "GK",
+      "rating": 75,
+      "club": "San Lorenzo"
+    },
+    {
+      "name": "J. Alonso",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Atletico-MG"
+    },
+    {
+      "name": "D. Gómez",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Brighton"
+    },
+    {
+      "name": "O. Alderete",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Sunderland"
+    },
+    {
+      "name": "G. Caballero",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Nacional Asuncion"
+    },
+    {
+      "name": "M. Galarza",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Talleres Cordoba"
+    },
+    {
+      "name": "A. Sanabria",
+      "pos": "ST",
+      "rating": 70,
+      "club": "Cremonese"
+    },
+    {
+      "name": "F. Balbuena",
+      "pos": "CB",
+      "rating": 66,
+      "club": "Gremio"
+    },
+    {
+      "name": "R. Fernandez",
+      "pos": "GK",
+      "rating": 60,
+      "club": ""
+    }
+  ],
+  "TUR": [
+    {
+      "name": "H. Çalhanoglu",
+      "pos": "CM",
+      "rating": 87,
+      "club": "Inter"
+    },
+    {
+      "name": "O. Kokçu",
+      "pos": "CM",
+      "rating": 86,
+      "club": "Beşiktaş"
+    },
+    {
+      "name": "K. Yildiz",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Juventus"
+    },
+    {
+      "name": "A. Güler",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "Y. Akgün",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "C. Uzun",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "K. Aktürkoglu",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "U. Çakir",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "B. Yilmaz",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "A. Bardakci",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "I. Yüksek",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "I. Kahveci",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Kasımpaşa"
+    },
+    {
+      "name": "S. Akaydin",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Rizespor"
+    },
+    {
+      "name": "M. Demiral",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "Ç. Söyüncü",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "O. Kabak",
+      "pos": "CB",
+      "rating": 75,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "Z. Çelik",
+      "pos": "CB",
+      "rating": 73,
+      "club": "AS Roma"
+    },
+    {
+      "name": "E. Elmali",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "F. Kadioglu",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Brighton"
+    },
+    {
+      "name": "M. Müldür",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "O. Aydin",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "K. Ayhan",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "D. Gül",
+      "pos": "ST",
+      "rating": 71,
+      "club": "FC Porto"
+    },
+    {
+      "name": "M. Günok",
+      "pos": "GK",
+      "rating": 70,
+      "club": "Beşiktaş"
+    },
+    {
+      "name": "A. Bayindir",
+      "pos": "GK",
+      "rating": 69,
+      "club": "Manchester United"
+    },
+    {
+      "name": "S. Özcan",
+      "pos": "CM",
+      "rating": 65,
+      "club": "Borussia Dortmund"
+    }
+  ],
+  "USA": [
+    {
+      "name": "S. Berhalter",
+      "pos": "CM",
+      "rating": 85,
+      "club": "Vancouver Whitecaps"
+    },
+    {
+      "name": "A. Zendejas",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Club America"
+    },
+    {
+      "name": "M. Arfsten",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Columbus Crew"
+    },
+    {
+      "name": "C. Roldan",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Seattle Sounders"
+    },
+    {
+      "name": "R. Pepi",
+      "pos": "ST",
+      "rating": 81,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "A. Freeman",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Orlando City SC"
+    },
+    {
+      "name": "M. Tillman",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "C. Pulisic",
+      "pos": "CM",
+      "rating": 79,
+      "club": "AC Milan"
+    },
+    {
+      "name": "H. Wright",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Coventry"
+    },
+    {
+      "name": "M. Turner",
+      "pos": "GK",
+      "rating": 77,
+      "club": "New England Revolution"
+    },
+    {
+      "name": "M. Robinson",
+      "pos": "CB",
+      "rating": 77,
+      "club": "FC Cincinnati"
+    },
+    {
+      "name": "W. McKennie",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Juventus"
+    },
+    {
+      "name": "M. Freese",
+      "pos": "GK",
+      "rating": 76,
+      "club": "New York City FC"
+    },
+    {
+      "name": "S. Dest",
+      "pos": "CM",
+      "rating": 76,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "C. Richards",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "F. Balogun",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Monaco"
+    },
+    {
+      "name": "C. Brady",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Chicago Fire"
+    },
+    {
+      "name": "A. Trusty",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Celtic"
+    },
+    {
+      "name": "G. Reyna",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
+      "name": "T. Adams",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Bournemouth"
+    },
+    {
+      "name": "M. McKenzie",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Toulouse"
+    },
+    {
+      "name": "A. Robinson",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Fulham"
+    },
+    {
+      "name": "T. Weah",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Marseille"
+    },
+    {
+      "name": "B. Aaronson",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Leeds"
+    },
+    {
+      "name": "T. Ream",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Charlotte"
+    },
+    {
+      "name": "J. Scally",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Borussia Mönchengladbach"
+    }
+  ],
+  "CUW": [
+    {
+      "name": "J. Margaritha",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Phoenix Rising"
+    },
+    {
+      "name": "K. Felida",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Den Bosch"
+    },
+    {
+      "name": "K. Gorré",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Maccabi Haifa"
+    },
+    {
+      "name": "Deveron Fonville",
+      "pos": "CB",
+      "rating": 76,
+      "club": "NEC Nijmegen"
+    },
+    {
+      "name": "L. Bacuna",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Bandırmaspor"
+    },
+    {
+      "name": "B. Kuwas",
+      "pos": "ST",
+      "rating": 76,
+      "club": "FC Volendam"
+    },
+    {
+      "name": "J. Bacuna",
+      "pos": "CM",
+      "rating": 75,
+      "club": "FC Volendam"
+    },
+    {
+      "name": "R. van Eijma",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Waalwijk"
+    },
+    {
+      "name": "A. Obispo",
+      "pos": "CB",
+      "rating": 74,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "T. Noslin",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Telstar"
+    },
+    {
+      "name": "J. Antonisse",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Kifisia"
+    },
+    {
+      "name": "L. Comenencia",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Curaçao"
+    },
+    {
+      "name": "G. Roemeratoe",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Waalwijk"
+    },
+    {
+      "name": "A. Martha",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Rotherham"
+    },
+    {
+      "name": "J. Brenet",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Livingston"
+    },
+    {
+      "name": "S. Sambo",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Sparta Rotterdam"
+    },
+    {
+      "name": "T. Chong",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Sheffield Utd"
+    },
+    {
+      "name": "R. Bazoer",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Konyaspor"
+    },
+    {
+      "name": "S. Floranus",
+      "pos": "CB",
+      "rating": 69,
+      "club": "PEC Zwolle"
+    },
+    {
+      "name": "J. Gaari",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Curaçao"
+    },
+    {
+      "name": "S. Hansen",
+      "pos": "ST",
+      "rating": 69,
+      "club": "Middlesbrough"
+    },
+    {
+      "name": "J. Locadia",
+      "pos": "ST",
+      "rating": 63,
+      "club": "Curaçao"
+    },
+    {
+      "name": "T. Doornbusch",
+      "pos": "GK",
+      "rating": 61,
+      "club": "VVV Venlo"
+    },
+    {
+      "name": "G. Kastaneer",
+      "pos": "ST",
+      "rating": 61,
+      "club": "Curaçao"
+    },
+    {
+      "name": "T. Bodak",
+      "pos": "GK",
+      "rating": 60,
+      "club": "Curaçao"
+    },
+    {
+      "name": "E. Room",
+      "pos": "GK",
+      "rating": 58,
+      "club": "Cercle Brugge"
+    }
+  ],
+  "ECU": [
+    {
+      "name": "J. Yeboah",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Venezia"
+    },
+    {
+      "name": "Jeremy Arévalo",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Racing Santander"
+    },
+    {
+      "name": "G. Valle",
+      "pos": "GK",
+      "rating": 80,
+      "club": "LDU de Quito"
+    },
+    {
+      "name": "N. Angulo",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Anderlecht"
+    },
+    {
+      "name": "G. Plata",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Flamengo"
+    },
+    {
+      "name": "M. Caicedo",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Chelsea"
+    },
+    {
+      "name": "J. Alcívar",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Independiente del Valle"
+    },
+    {
+      "name": "K. Páez",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Chelsea"
+    },
+    {
+      "name": "P. Vite",
+      "pos": "CM",
+      "rating": 78,
+      "club": "U.N.A.M. - Pumas"
+    },
+    {
+      "name": "M. Ramírez",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Kifisia"
+    },
+    {
+      "name": "A. Valencia",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Antwerp"
+    },
+    {
+      "name": "P. Hincapié",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Arsenal"
+    },
+    {
+      "name": "A. Minda",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Cercle Brugge"
+    },
+    {
+      "name": "W. Pacho",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "J. Porozo",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Club Tijuana"
+    },
+    {
+      "name": "H. Galíndez",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Huracan"
+    },
+    {
+      "name": "P. Estupiñán",
+      "pos": "CB",
+      "rating": 74,
+      "club": "AC Milan"
+    },
+    {
+      "name": "J. Ordoñez",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Club Brugge KV"
+    },
+    {
+      "name": "A. Preciado",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Sparta Praha"
+    },
+    {
+      "name": "D. Castillo",
+      "pos": "CM",
+      "rating": 74,
+      "club": "FC Midtjylland"
+    },
+    {
+      "name": "A. Franco",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Atletico-MG"
+    },
+    {
+      "name": "Y. Medina",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Genk"
+    },
+    {
+      "name": "F. Torres",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Corinthians"
+    },
+    {
+      "name": "K. Rodríguez",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Union St. Gilloise"
+    },
+    {
+      "name": "E. Valencia",
+      "pos": "ST",
+      "rating": 73,
+      "club": "CF Pachuca"
+    },
+    {
+      "name": "J. Caicedo",
+      "pos": "ST",
+      "rating": 68,
+      "club": "Sporting Gijon"
+    }
+  ],
+  "GER": [
+    {
+      "name": "N. Schlotterbeck",
+      "pos": "CB",
+      "rating": 85,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "J. Kimmich",
+      "pos": "CB",
+      "rating": 85,
+      "club": "Bayern München"
+    },
+    {
+      "name": "N. Amiri",
+      "pos": "CM",
+      "rating": 85,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "D. Undav",
+      "pos": "ST",
+      "rating": 83,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "D. Raum",
+      "pos": "CB",
+      "rating": 82,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "J. Leweling",
+      "pos": "ST",
+      "rating": 80,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "A. Stiller",
+      "pos": "CM",
+      "rating": 80,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "L. Sané",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "K. Havertz",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Arsenal"
+    },
+    {
+      "name": "L. Goretzka",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Bayern München"
+    },
+    {
+      "name": "A. Pavlovic",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Bayern München"
+    },
+    {
+      "name": "A. Nübel",
+      "pos": "GK",
+      "rating": 77,
+      "club": "VfB Stuttgart"
+    },
+    {
+      "name": "W. Anton",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "J. Tah",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Bayern München"
+    },
+    {
+      "name": "F. Nmecha",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "N. Woltemade",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Newcastle"
+    },
+    {
+      "name": "M. Thiaw",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Newcastle"
+    },
+    {
+      "name": "L. Karl",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Bayern München"
+    },
+    {
+      "name": "F. Wirtz",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Liverpool"
+    },
+    {
+      "name": "M. Beier",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "N. Brown",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "P. Groß",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Brighton"
+    },
+    {
+      "name": "J. Musiala",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Bayern München"
+    },
+    {
+      "name": "A. Rüdiger",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "O. Baumann",
+      "pos": "GK",
+      "rating": 72,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "M. Neuer",
+      "pos": "GK",
+      "rating": 71,
+      "club": "Bayern München"
+    }
+  ],
+  "CIV": [
+    {
+      "name": "Y. Diomande",
+      "pos": "CM",
+      "rating": 88,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "N. Pépé",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Villarreal"
+    },
+    {
+      "name": "M. Koné",
+      "pos": "GK",
+      "rating": 79,
+      "club": "Charleroi"
+    },
+    {
+      "name": "P. Guiagon",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Charleroi"
+    },
+    {
+      "name": "C. Operi",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Başakşehir"
+    },
+    {
+      "name": "E. Agbadou",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Wolves"
+    },
+    {
+      "name": "C. Inao Oulai",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Trabzonspor"
+    },
+    {
+      "name": "F. Kessié",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "B. Touré",
+      "pos": "ST",
+      "rating": 77,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "A. Diallo",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Manchester United"
+    },
+    {
+      "name": "E. Wahi",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Nice"
+    },
+    {
+      "name": "S. Fofana",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Rennes"
+    },
+    {
+      "name": "I. Sangaré",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "A. Bonny",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Inter"
+    },
+    {
+      "name": "A. Lafont",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Panathinaikos"
+    },
+    {
+      "name": "O. Diomande",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "G. Doué",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "S. Adingra",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Monaco"
+    },
+    {
+      "name": "Y. Fofana",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Rizespor"
+    },
+    {
+      "name": "G. Konan",
+      "pos": "CB",
+      "rating": 74,
+      "club": "GIL Vicente"
+    },
+    {
+      "name": "E. Ndicka",
+      "pos": "CB",
+      "rating": 74,
+      "club": "AS Roma"
+    },
+    {
+      "name": "W. Singo",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "O. Diakité",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Cercle Brugge"
+    },
+    {
+      "name": "O. Kossounou",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Atalanta"
+    },
+    {
+      "name": "E. Guessand",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "J. Seri",
+      "pos": "CM",
+      "rating": 69,
+      "club": "Ivory Coast"
+    }
+  ],
+  "JPN": [
+    {
+      "name": "Keito Nakamura",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Reims"
+    },
+    {
+      "name": "A. Ueda",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "J. Ito",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Genk"
+    },
+    {
+      "name": "K. Shiogai",
+      "pos": "ST",
+      "rating": 80,
+      "club": "NEC Nijmegen"
+    },
+    {
+      "name": "T. Kubo",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Real Sociedad"
+    },
+    {
+      "name": "T. Watanabe",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "Koki Ogawa",
+      "pos": "ST",
+      "rating": 78,
+      "club": "NEC Nijmegen"
+    },
+    {
+      "name": "J. Suzuki",
+      "pos": "CB",
+      "rating": 77,
+      "club": "FC Copenhagen"
+    },
+    {
+      "name": "K. Sano",
+      "pos": "CM",
+      "rating": 77,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "Y. Suzuki",
+      "pos": "CM",
+      "rating": 77,
+      "club": "SC Freiburg"
+    },
+    {
+      "name": "Z. Suzuki",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Parma"
+    },
+    {
+      "name": "S. Taniguchi",
+      "pos": "CB",
+      "rating": 76,
+      "club": "St. Truiden"
+    },
+    {
+      "name": "R. Doan",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "D. Kamada",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "K. Goto",
+      "pos": "ST",
+      "rating": 76,
+      "club": "St. Truiden"
+    },
+    {
+      "name": "T. Hayakawa",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Kashima"
+    },
+    {
+      "name": "K. Osako",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Sanfrecce Hiroshima"
+    },
+    {
+      "name": "H. Ito",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Bayern München"
+    },
+    {
+      "name": "D. Maeda",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Celtic"
+    },
+    {
+      "name": "A. Tanaka",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Leeds"
+    },
+    {
+      "name": "K. Itakura",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Ajax"
+    },
+    {
+      "name": "A. Seko",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Le Havre"
+    },
+    {
+      "name": "W. Endo",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Liverpool"
+    },
+    {
+      "name": "Y. Sugawara",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Werder Bremen"
+    },
+    {
+      "name": "Y. Nagatomo",
+      "pos": "CB",
+      "rating": 68,
+      "club": "FC Tokyo"
+    },
+    {
+      "name": "T. Tomiyasu",
+      "pos": "CB",
+      "rating": 68,
+      "club": "Ajax"
+    }
+  ],
+  "NED": [
+    {
+      "name": "F. de Jong",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Barcelona"
+    },
+    {
+      "name": "J. van Hecke",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Brighton"
+    },
+    {
+      "name": "D. Malen",
+      "pos": "ST",
+      "rating": 80,
+      "club": "AS Roma"
+    },
+    {
+      "name": "C. Summerville",
+      "pos": "ST",
+      "rating": 80,
+      "club": "West Ham"
+    },
+    {
+      "name": "V. van Dijk",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Liverpool"
+    },
+    {
+      "name": "M. Depay",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Corinthians"
+    },
+    {
+      "name": "R. Gravenberch",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Liverpool"
+    },
+    {
+      "name": "N. Lang",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "M. Flekken",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "R. Roefs",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Sunderland"
+    },
+    {
+      "name": "B. Verbruggen",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Brighton"
+    },
+    {
+      "name": "G. Til",
+      "pos": "CM",
+      "rating": 77,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "T. Reijnders",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Manchester City"
+    },
+    {
+      "name": "C. Gakpo",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Liverpool"
+    },
+    {
+      "name": "N. Aké",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Manchester City"
+    },
+    {
+      "name": "J. Timber",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Arsenal"
+    },
+    {
+      "name": "M. de Roon",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Atalanta"
+    },
+    {
+      "name": "W. Weghorst",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Ajax"
+    },
+    {
+      "name": "M. van de Ven",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Tottenham"
+    },
+    {
+      "name": "T. Koopmeiners",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Juventus"
+    },
+    {
+      "name": "Q. Timber",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "M. Wieffer",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Brighton"
+    },
+    {
+      "name": "B. Brobbey",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Sunderland"
+    },
+    {
+      "name": "D. Dumfries",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Inter"
+    },
+    {
+      "name": "J. Hato",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Chelsea"
+    },
+    {
+      "name": "J. Kluivert",
+      "pos": "ST",
+      "rating": 70,
+      "club": "Bournemouth"
+    }
+  ],
+  "SWE": [
+    {
+      "name": "E. Stroud",
+      "pos": "CM",
+      "rating": 84,
+      "club": "Mjallby AIF"
+    },
+    {
+      "name": "B. Zeneli",
+      "pos": "CM",
+      "rating": 83,
+      "club": "IF Elfsborg"
+    },
+    {
+      "name": "H. Johansson",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Mjallby AIF"
+    },
+    {
+      "name": "A. Bernhardsson",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Holstein Kiel"
+    },
+    {
+      "name": "B. Nygren",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Celtic"
+    },
+    {
+      "name": "V. Johansson",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Stoke City"
+    },
+    {
+      "name": "J. Widell Zetterström",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Derby"
+    },
+    {
+      "name": "T. Ali",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Malmo FF"
+    },
+    {
+      "name": "V. Gyökeres",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Arsenal"
+    },
+    {
+      "name": "G. Lagerbielke",
+      "pos": "CB",
+      "rating": 76,
+      "club": "SC Braga"
+    },
+    {
+      "name": "E. Smith",
+      "pos": "CB",
+      "rating": 76,
+      "club": "FC St. Pauli"
+    },
+    {
+      "name": "K. Sema",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Pafos"
+    },
+    {
+      "name": "A. Isak",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Liverpool"
+    },
+    {
+      "name": "Y. Ayari",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Brighton"
+    },
+    {
+      "name": "G. Gudmundsson",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Leeds"
+    },
+    {
+      "name": "C. Starfelt",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Celta Vigo"
+    },
+    {
+      "name": "G. Nilsson",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Club Brugge KV"
+    },
+    {
+      "name": "L. Bergvall",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Tottenham"
+    },
+    {
+      "name": "J. Karlström",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Udinese"
+    },
+    {
+      "name": "A. Elanga",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Newcastle"
+    },
+    {
+      "name": "H. Ekdal",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Burnley"
+    },
+    {
+      "name": "I. Hien",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Atalanta"
+    },
+    {
+      "name": "V. Lindelöf",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "D. Svensson",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "M. Svanberg",
+      "pos": "CM",
+      "rating": 72,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "name": "K. Nordfeldt",
+      "pos": "GK",
+      "rating": 71,
+      "club": "AIK Stockholm"
+    }
+  ],
+  "TUN": [
+    {
+      "name": "M. Neffati",
+      "pos": "CB",
+      "rating": 77,
+      "club": "IFK Norrkoping"
+    },
+    {
+      "name": "S. Tounekti",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Celtic"
+    },
+    {
+      "name": "A. Ben Hmida",
+      "pos": "CB",
+      "rating": 76,
+      "club": "ES Tunis"
+    },
+    {
+      "name": "A. Ben Slimane",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Norwich"
+    },
+    {
+      "name": "M. Talbi",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Lorient"
+    },
+    {
+      "name": "H. Mejbri",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Burnley"
+    },
+    {
+      "name": "E. Achouri",
+      "pos": "CM",
+      "rating": 75,
+      "club": "FC Copenhagen"
+    },
+    {
+      "name": "E. Saad",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Hannover 96"
+    },
+    {
+      "name": "A. Abdi",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Nice"
+    },
+    {
+      "name": "A. Arous",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Kasımpaşa"
+    },
+    {
+      "name": "M. Ben Ouanes",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Kasımpaşa"
+    },
+    {
+      "name": "R. Khedira",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Union Berlin"
+    },
+    {
+      "name": "E. Skhiri",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "D. Bronn",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Servette FC"
+    },
+    {
+      "name": "H. Mahmoud",
+      "pos": "CM",
+      "rating": 72,
+      "club": "FC Lugano"
+    },
+    {
+      "name": "H. Mastouri",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Dinamo Makhachkala"
+    },
+    {
+      "name": "Y. Valery",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Sheffield Wednesday"
+    },
+    {
+      "name": "R. Elloumi",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Vancouver Whitecaps"
+    },
+    {
+      "name": "Ismaël Gharbi",
+      "pos": "ST",
+      "rating": 69,
+      "club": "Tunisia"
+    },
+    {
+      "name": "A. Dahmen",
+      "pos": "GK",
+      "rating": 67,
+      "club": "Tunisia"
+    },
+    {
+      "name": "F. Chaouat",
+      "pos": "ST",
+      "rating": 66,
+      "club": "Tunisia"
+    },
+    {
+      "name": "S. Ben Hsan",
+      "pos": "GK",
+      "rating": 64,
+      "club": "Tunisia"
+    },
+    {
+      "name": "C. Abdelmouhib",
+      "pos": "GK",
+      "rating": 64,
+      "club": ""
+    },
+    {
+      "name": "R. Chikhaoui",
+      "pos": "CB",
+      "rating": 64,
+      "club": ""
+    },
+    {
+      "name": "O. Rekik",
+      "pos": "CB",
+      "rating": 64,
+      "club": ""
+    },
+    {
+      "name": "K. Ayari",
+      "pos": "CM",
+      "rating": 64,
+      "club": ""
+    }
+  ],
+  "BEL": [
+    {
+      "name": "J. Doku",
+      "pos": "CM",
+      "rating": 86,
+      "club": "Manchester City"
+    },
+    {
+      "name": "H. Vanaken",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Club Brugge KV"
+    },
+    {
+      "name": "C. De Ketelaere",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Atalanta"
+    },
+    {
+      "name": "N. Raskin",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Rangers"
+    },
+    {
+      "name": "A. Saelemaekers",
+      "pos": "ST",
+      "rating": 80,
+      "club": "AC Milan"
+    },
+    {
+      "name": "Y. Tielemans",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "B. Mechele",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Club Brugge KV"
+    },
+    {
+      "name": "D. Moreira",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "M. Penders",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "Z. Debast",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "K. De Bruyne",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Napoli"
+    },
+    {
+      "name": "M. Fernandez-Pardo",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Lille"
+    },
+    {
+      "name": "D. Lukebakio",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Benfica"
+    },
+    {
+      "name": "L. Trossard",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Arsenal"
+    },
+    {
+      "name": "T. Courtois",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "A. Onana",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "S. Lammens",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Manchester United"
+    },
+    {
+      "name": "M. De Cuyper",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Brighton"
+    },
+    {
+      "name": "J. Seys",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Club Brugge KV"
+    },
+    {
+      "name": "K. De Winter",
+      "pos": "CB",
+      "rating": 74,
+      "club": "AC Milan"
+    },
+    {
+      "name": "N. Ngoy",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Lille"
+    },
+    {
+      "name": "T. Castagne",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Fulham"
+    },
+    {
+      "name": "T. Meunier",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Lille"
+    },
+    {
+      "name": "A. Theate",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "A. Witsel",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Girona"
+    },
+    {
+      "name": "R. Lukaku",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Napoli"
+    }
+  ],
+  "EGY": [
+    {
+      "name": "Rami Rabia",
+      "pos": "CB",
+      "rating": 82,
+      "club": "Al Ain"
+    },
+    {
+      "name": "Mohamed Salah",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Liverpool"
+    },
+    {
+      "name": "Emam Ashour",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Hossam Abdelmaguid",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Zamalek SC"
+    },
+    {
+      "name": "Marwan Attia",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Trézéguet",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Hamdi Fathy",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Al Wakrah"
+    },
+    {
+      "name": "Mohanad Lasheen",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Pyramids FC"
+    },
+    {
+      "name": "Mahmoud Saber",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Masr"
+    },
+    {
+      "name": "Mostafa Shobeir",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Ahmed Fatouh",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Zamalek SC"
+    },
+    {
+      "name": "Yasser Ibrahim",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Omar Marmoush",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Manchester City"
+    },
+    {
+      "name": "Karim Hafez",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Pyramids FC"
+    },
+    {
+      "name": "Mohamed Hany",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "Nabil Emad Dunga",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Al Najma"
+    },
+    {
+      "name": "Ibrahim Adel",
+      "pos": "ST",
+      "rating": 76,
+      "club": "FC Nordsjaelland"
+    },
+    {
+      "name": "H. Hassan",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Oviedo"
+    },
+    {
+      "name": "Mohamed El Shenawy",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Al Ahly"
+    },
+    {
+      "name": "T. Alaa",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Masr"
+    },
+    {
+      "name": "Mostafa Zico",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Pyramids FC"
+    },
+    {
+      "name": "Al Mahdi Soliman",
+      "pos": "GK",
+      "rating": 71,
+      "club": "Zamalek SC"
+    },
+    {
+      "name": "Mohamed Abdelmonem",
+      "pos": "CB",
+      "rating": 68,
+      "club": "Egypt"
+    },
+    {
+      "name": "Ahmed Zizo",
+      "pos": "ST",
+      "rating": 67,
+      "club": ""
+    },
+    {
+      "name": "M. Alaa",
+      "pos": "GK",
+      "rating": 66,
+      "club": ""
+    },
+    {
+      "name": "H. Abdelkarim",
+      "pos": "ST",
+      "rating": 65,
+      "club": "Al Ahly"
+    }
+  ],
+  "IRN": [
+    {
+      "name": "S. Ghoddos",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Al-Ittihad Kalba"
+    },
+    {
+      "name": "S. Moghanlou",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Al-Ittihad Kalba"
+    },
+    {
+      "name": "A. Hosseinzadeh",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Tractor Sazi"
+    },
+    {
+      "name": "M. Taremi",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Olympiakos Piraeus"
+    },
+    {
+      "name": "S. Ezatolahi",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Shabab Al Ahli Dubai"
+    },
+    {
+      "name": "A. Beiranvand",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Tractor Sazi"
+    },
+    {
+      "name": "A. Yousefi",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Sepahan FC"
+    },
+    {
+      "name": "S. Khalilzadeh",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Tractor Sazi"
+    },
+    {
+      "name": "Saleh Hardani",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Esteghlal FC"
+    },
+    {
+      "name": "M. Mohebi",
+      "pos": "ST",
+      "rating": 72,
+      "club": "FC Rostov"
+    },
+    {
+      "name": "M. Torabi",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Tractor Sazi"
+    },
+    {
+      "name": "D. Eckert Ayensa",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Standard Liege"
+    },
+    {
+      "name": "E. Hajisafi",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Sepahan FC"
+    },
+    {
+      "name": "M. Mohammadi",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Persepolis FC"
+    },
+    {
+      "name": "A. Jahanbakhsh",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Dender"
+    },
+    {
+      "name": "M. Ghorbani",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Al Wahda FC"
+    },
+    {
+      "name": "H. Hosseini",
+      "pos": "GK",
+      "rating": 70,
+      "club": "Sepahan FC"
+    },
+    {
+      "name": "R. Cheshmi",
+      "pos": "CM",
+      "rating": 68,
+      "club": "Esteghlal FC"
+    },
+    {
+      "name": "M. Ghaedi",
+      "pos": "ST",
+      "rating": 68,
+      "club": ""
+    },
+    {
+      "name": "A. Alipour",
+      "pos": "ST",
+      "rating": 68,
+      "club": "Iran"
+    },
+    {
+      "name": "P. Niazmand",
+      "pos": "GK",
+      "rating": 67,
+      "club": "Persepolis FC"
+    },
+    {
+      "name": "D. Eiri",
+      "pos": "CB",
+      "rating": 67,
+      "club": ""
+    },
+    {
+      "name": "H. Kanani",
+      "pos": "CB",
+      "rating": 67,
+      "club": ""
+    },
+    {
+      "name": "A. Nemati",
+      "pos": "CB",
+      "rating": 67,
+      "club": ""
+    },
+    {
+      "name": "A. Razzaghinia",
+      "pos": "CM",
+      "rating": 67,
+      "club": "Esteghlal FC"
+    },
+    {
+      "name": "R. Rezaeian",
+      "pos": "CB",
+      "rating": 66,
+      "club": "Esteghlal FC"
+    }
+  ],
+  "NZL": [
+    {
+      "name": "J. Randall",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Auckland"
+    },
+    {
+      "name": "J. Bell",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Viking"
+    },
+    {
+      "name": "F. de Vries",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Auckland"
+    },
+    {
+      "name": "C. McCowatt",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Silkeborg"
+    },
+    {
+      "name": "A. Rufer",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Wellington Phoenix"
+    },
+    {
+      "name": "E. Just",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Motherwell"
+    },
+    {
+      "name": "M. Woud",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Auckland"
+    },
+    {
+      "name": "L. Bayliss",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Newcastle Jets"
+    },
+    {
+      "name": "R. Thomas",
+      "pos": "CM",
+      "rating": 78,
+      "club": "PEC Zwolle"
+    },
+    {
+      "name": "N. Pijnaker",
+      "pos": "CB",
+      "rating": 77,
+      "club": "New Zealand"
+    },
+    {
+      "name": "M. Crocombe",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Millwall"
+    },
+    {
+      "name": "F. Surman",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Portland Timbers"
+    },
+    {
+      "name": "S. Singh",
+      "pos": "CM",
+      "rating": 75,
+      "club": "TSC Backa Topola"
+    },
+    {
+      "name": "B. Waine",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Port Vale"
+    },
+    {
+      "name": "Tyler Bindon",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Sheffield Utd"
+    },
+    {
+      "name": "C. Elliot",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Auckland"
+    },
+    {
+      "name": "M. Garbett",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Peterborough"
+    },
+    {
+      "name": "M. Boxall",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Minnesota United FC"
+    },
+    {
+      "name": "M. Stamenic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Swansea"
+    },
+    {
+      "name": "C. Wood",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "A. Paulsen",
+      "pos": "GK",
+      "rating": 72,
+      "club": "Lechia Gdansk"
+    },
+    {
+      "name": "L. Cacace",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Wrexham"
+    },
+    {
+      "name": "B. Old",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Saint Etienne"
+    },
+    {
+      "name": "T. Payne",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Wellington Phoenix"
+    },
+    {
+      "name": "K. Barbarouses",
+      "pos": "ST",
+      "rating": 70,
+      "club": "Western Sydney Wanderers"
+    },
+    {
+      "name": "T. Smith",
+      "pos": "CB",
+      "rating": 59,
+      "club": "Braintree"
+    }
+  ],
+  "CPV": [
+    {
+      "name": "Logan Costa",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Cape Verde Islands"
+    },
+    {
+      "name": "Willy Semedo",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Omonia Nicosia"
+    },
+    {
+      "name": "João Paulo",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Oţelul"
+    },
+    {
+      "name": "Yannick Semedo",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Farense"
+    },
+    {
+      "name": "Márcio Rosa",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Montana"
+    },
+    {
+      "name": "Diney Borges",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Al Bataeh"
+    },
+    {
+      "name": "S. Lopes Cabral",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Cape Verde Islands"
+    },
+    {
+      "name": "Pico",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Shamrock Rovers"
+    },
+    {
+      "name": "Jovane Cabral",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Cape Verde Islands"
+    },
+    {
+      "name": "Hélio Varela",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Cape Verde Islands"
+    },
+    {
+      "name": "C. dos Santos",
+      "pos": "GK",
+      "rating": 76,
+      "club": "San Diego"
+    },
+    {
+      "name": "Wagner Pina",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Trabzonspor"
+    },
+    {
+      "name": "Deroy Duarte",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Ludogorets"
+    },
+    {
+      "name": "Garry Rodrigues",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Apollon Limassol"
+    },
+    {
+      "name": "Telmo Arcanjo",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Guimaraes"
+    },
+    {
+      "name": "L. Duarte",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Puskas Academy"
+    },
+    {
+      "name": "Jamiro Monteiro",
+      "pos": "CM",
+      "rating": 74,
+      "club": "PEC Zwolle"
+    },
+    {
+      "name": "Gilson Benchimol",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Akron"
+    },
+    {
+      "name": "S. Moreira",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Cape Verde Islands"
+    },
+    {
+      "name": "Stopira",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Torreense"
+    },
+    {
+      "name": "Kevin Pina",
+      "pos": "CM",
+      "rating": 73,
+      "club": "FC Krasnodar"
+    },
+    {
+      "name": "Nuno da Costa",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Başakşehir"
+    },
+    {
+      "name": "Ryan Mendes",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Iğdır FK"
+    },
+    {
+      "name": "Kelvin Pires",
+      "pos": "CB",
+      "rating": 72,
+      "club": "SJK"
+    },
+    {
+      "name": "D. Livramento",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Casa Pia"
+    },
+    {
+      "name": "Vózinha",
+      "pos": "GK",
+      "rating": 69,
+      "club": "Chaves"
+    }
+  ],
+  "KSA": [
+    {
+      "name": "Musab Al Juwayr",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Al-Qadisiyah FC"
+    },
+    {
+      "name": "Khalid Al Ghannam",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Al-Ettifaq"
+    },
+    {
+      "name": "Mohammed Abu Al Shamat",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Al-Qadisiyah FC"
+    },
+    {
+      "name": "Salem Al Dawsari",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Saud Abdulhamid",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Lens"
+    },
+    {
+      "name": "Abdulelah Al Amri",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Sultan Mandash",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Al Taawon"
+    },
+    {
+      "name": "Abdullah Al Hamdan",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Saudi Arabia"
+    },
+    {
+      "name": "Hassan Tambakti",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Mohamed Kanno",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Nawaf Boushal",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Nawaf Al Aqidi",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Moteb Al Harbi",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Hassan Kadesh",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Al-Ittihad FC"
+    },
+    {
+      "name": "Ali Lajami",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Nasser Al Dawsari",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Feras Al Brikan",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "Saleh Al Shehri",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Al-Ittihad FC"
+    },
+    {
+      "name": "Ali Majrashi",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "Ayman Yahya",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Ziyad Al Johani",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "Abdullah Al Khaibari",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Ahmed Al Kassar",
+      "pos": "GK",
+      "rating": 64,
+      "club": "Al-Qadisiyah FC"
+    },
+    {
+      "name": "Ala Al Haji",
+      "pos": "CM",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "Mohammed Al Owais",
+      "pos": "GK",
+      "rating": 62,
+      "club": "Saudi Arabia"
+    },
+    {
+      "name": "J. Thakri",
+      "pos": "CB",
+      "rating": 62,
+      "club": ""
+    }
+  ],
+  "ESP": [
+    {
+      "name": "Lamine Yamal",
+      "pos": "ST",
+      "rating": 95,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Pedri",
+      "pos": "CM",
+      "rating": 84,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Álex Grimaldo",
+      "pos": "CB",
+      "rating": 82,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "Joan García",
+      "pos": "GK",
+      "rating": 81,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Rodri",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Manchester City"
+    },
+    {
+      "name": "Mikel Oyarzabal",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Real Sociedad"
+    },
+    {
+      "name": "Álex Baena",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "Fabián Ruiz",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Gavi",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Dani Olmo",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Barcelona"
+    },
+    {
+      "name": "David Raya",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Arsenal"
+    },
+    {
+      "name": "Pau Cubarsí Paredes",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Marcos Llorente",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "Martín Zubimendi",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Arsenal"
+    },
+    {
+      "name": "Víctor Muñoz",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Osasuna"
+    },
+    {
+      "name": "Yeremy Pino",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "Nico Williams",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Athletic Club"
+    },
+    {
+      "name": "Eric García",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Pedro Porro",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Tottenham"
+    },
+    {
+      "name": "Borja Iglesias",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Celta Vigo"
+    },
+    {
+      "name": "Ferran Torres",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Barcelona"
+    },
+    {
+      "name": "Marc Pubill",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "Mikel Merino",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Arsenal"
+    },
+    {
+      "name": "Marc Cucurella",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Chelsea"
+    },
+    {
+      "name": "Aymeric Laporte",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Athletic Club"
+    },
+    {
+      "name": "Unai Simón",
+      "pos": "GK",
+      "rating": 72,
+      "club": "Athletic Club"
+    }
+  ],
+  "URU": [
+    {
+      "name": "G. de Arrascaeta",
+      "pos": "CM",
+      "rating": 86,
+      "club": "Flamengo"
+    },
+    {
+      "name": "B. Rodríguez",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Club America"
+    },
+    {
+      "name": "F. Valverde",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "R. Zalazar",
+      "pos": "CM",
+      "rating": 82,
+      "club": "SC Braga"
+    },
+    {
+      "name": "N. de la Cruz",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Flamengo"
+    },
+    {
+      "name": "D. Núñez",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "J. Piquerez",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "G. Varela",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Flamengo"
+    },
+    {
+      "name": "J. Sanabria",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Atletico San Luis"
+    },
+    {
+      "name": "F. Viñas",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Oviedo"
+    },
+    {
+      "name": "A. Canobbio",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Fluminense"
+    },
+    {
+      "name": "J. Giménez",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "M. Araújo",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "S. Rochet",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Internacional"
+    },
+    {
+      "name": "S. Mele",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Junior"
+    },
+    {
+      "name": "F. Muslera",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Estudiantes L.P."
+    },
+    {
+      "name": "R. Araújo",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Barcelona"
+    },
+    {
+      "name": "S. Cáceres",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Club America"
+    },
+    {
+      "name": "E. Martínez",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "S. Bueno",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Wolves"
+    },
+    {
+      "name": "M. Olivera",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Napoli"
+    },
+    {
+      "name": "R. Bentancur",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Tottenham"
+    },
+    {
+      "name": "M. Ugarte",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Manchester United"
+    },
+    {
+      "name": "F. Pellistri",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Panathinaikos"
+    },
+    {
+      "name": "R. Aguirre",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Club America"
+    },
+    {
+      "name": "M. Viña",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Flamengo"
+    }
+  ],
+  "FRA": [
+    {
+      "name": "Kylian Mbappé",
+      "pos": "ST",
+      "rating": 92,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "M. Olise",
+      "pos": "CM",
+      "rating": 90,
+      "club": "Bayern München"
+    },
+    {
+      "name": "O. Dembélé",
+      "pos": "CM",
+      "rating": 88,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "R. Cherki",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Manchester City"
+    },
+    {
+      "name": "D. Doué",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "A. Rabiot",
+      "pos": "CM",
+      "rating": 80,
+      "club": "AC Milan"
+    },
+    {
+      "name": "B. Barcola",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "M. Maignan",
+      "pos": "GK",
+      "rating": 79,
+      "club": "AC Milan"
+    },
+    {
+      "name": "M. Thuram",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Inter"
+    },
+    {
+      "name": "T. Hernández",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "A. Tchouaméni",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "D. Upamecano",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Bayern München"
+    },
+    {
+      "name": "N. Kanté",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Al-Ittihad FC"
+    },
+    {
+      "name": "M. Koné",
+      "pos": "CM",
+      "rating": 77,
+      "club": "AS Roma"
+    },
+    {
+      "name": "M. Akliouche",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Monaco"
+    },
+    {
+      "name": "R. Risser",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Lens"
+    },
+    {
+      "name": "L. Hernández",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "I. Konaté",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Liverpool"
+    },
+    {
+      "name": "W. Saliba",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Arsenal"
+    },
+    {
+      "name": "B. Samba",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Rennes"
+    },
+    {
+      "name": "J. Koundé",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Barcelona"
+    },
+    {
+      "name": "M. Lacroix",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "J. Mateta",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "L. Digne",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "W. Zaïre-Emery",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "M. Gusto",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Chelsea"
+    }
+  ],
+  "IRQ": [
+    {
+      "name": "A. Sher",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Sarpsborg 08 FF"
+    },
+    {
+      "name": "M. Farji",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Stromsgodset"
+    },
+    {
+      "name": "Amir Al Ammari",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Cracovia Krakow"
+    },
+    {
+      "name": "Zidane Iqbal",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Jong Utrecht"
+    },
+    {
+      "name": "Merchas Doski",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Plzen"
+    },
+    {
+      "name": "Kevin Yakob",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Aarhus"
+    },
+    {
+      "name": "Youssef Amyn",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Iraq"
+    },
+    {
+      "name": "A. Jasim",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Al Najma"
+    },
+    {
+      "name": "Rebin Solaka",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Port FC"
+    },
+    {
+      "name": "Ibraheem Bayesh",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Iraq"
+    },
+    {
+      "name": "A. Qasem",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Nashville SC"
+    },
+    {
+      "name": "Frans Putros",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Persib Bandung"
+    },
+    {
+      "name": "Aymen Hussein",
+      "pos": "ST",
+      "rating": 69,
+      "club": "Iraq"
+    },
+    {
+      "name": "Akam Rahman",
+      "pos": "CB",
+      "rating": 68,
+      "club": "Al Zawra'a"
+    },
+    {
+      "name": "Hussein Ali",
+      "pos": "CB",
+      "rating": 66,
+      "club": "Pogon Szczecin"
+    },
+    {
+      "name": "Ali Al Hamadi",
+      "pos": "ST",
+      "rating": 66,
+      "club": "Luton"
+    },
+    {
+      "name": "Ahmed Basil",
+      "pos": "GK",
+      "rating": 65,
+      "club": "Al Shorta"
+    },
+    {
+      "name": "Jalal Hassan Hachim",
+      "pos": "GK",
+      "rating": 65,
+      "club": "Al Zawra'a"
+    },
+    {
+      "name": "Mustafa Saadoun",
+      "pos": "CB",
+      "rating": 64,
+      "club": "Al Shorta"
+    },
+    {
+      "name": "A. Yahya",
+      "pos": "CB",
+      "rating": 64,
+      "club": "Al Shorta"
+    },
+    {
+      "name": "Munaf Younus",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Al Shorta"
+    },
+    {
+      "name": "Z. Ismaeel",
+      "pos": "CM",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "Meme",
+      "pos": "ST",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "A. Y. Hashim",
+      "pos": "ST",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "Fahad Talib",
+      "pos": "GK",
+      "rating": 62,
+      "club": ""
+    },
+    {
+      "name": "Zayed Tahseen",
+      "pos": "CB",
+      "rating": 62,
+      "club": "Iraq"
+    }
+  ],
+  "NOR": [
+    {
+      "name": "J. Hauge",
+      "pos": "CM",
+      "rating": 87,
+      "club": "Bodo/Glimt"
+    },
+    {
+      "name": "P. Berg",
+      "pos": "CM",
+      "rating": 86,
+      "club": "Bodo/Glimt"
+    },
+    {
+      "name": "E. Haaland",
+      "pos": "ST",
+      "rating": 86,
+      "club": "Manchester City"
+    },
+    {
+      "name": "A. Schjelderup",
+      "pos": "ST",
+      "rating": 85,
+      "club": "Benfica"
+    },
+    {
+      "name": "H. Falchener",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Viking"
+    },
+    {
+      "name": "L. Østigård",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Genoa"
+    },
+    {
+      "name": "A. Nusa",
+      "pos": "ST",
+      "rating": 80,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "F. Bjørkan",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Bodo/Glimt"
+    },
+    {
+      "name": "S. Tangvik",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Rosenborg"
+    },
+    {
+      "name": "T. Aasgaard",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Rangers"
+    },
+    {
+      "name": "F. Aursnes",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Benfica"
+    },
+    {
+      "name": "M. Ødegaard",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Arsenal"
+    },
+    {
+      "name": "A. Sørloth",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "J. Ryerson",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "D. Møller Wolfe",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Wolves"
+    },
+    {
+      "name": "S. Berge",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Fulham"
+    },
+    {
+      "name": "E. Selvik",
+      "pos": "GK",
+      "rating": 74,
+      "club": "Watford"
+    },
+    {
+      "name": "K. Thorstvedt",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Sassuolo"
+    },
+    {
+      "name": "S. Langås",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Derby"
+    },
+    {
+      "name": "Oscar Bobb",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Fulham"
+    },
+    {
+      "name": "K. Ajer",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Brentford"
+    },
+    {
+      "name": "T. Heggem",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Bologna"
+    },
+    {
+      "name": "M. Thorsby",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Genoa"
+    },
+    {
+      "name": "J. Strand Larsen",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Wolves"
+    },
+    {
+      "name": "Ø. Nyland",
+      "pos": "GK",
+      "rating": 71,
+      "club": "Sevilla"
+    },
+    {
+      "name": "M. Pedersen",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Torino"
+    }
+  ],
+  "SEN": [
+    {
+      "name": "B. Dieng",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Lorient"
+    },
+    {
+      "name": "S. Mané",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "K. Koulibaly",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "P. Gueye",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Villarreal"
+    },
+    {
+      "name": "I. Sarr",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "M. Niakhaté",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Lyon"
+    },
+    {
+      "name": "K. Diatta",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Monaco"
+    },
+    {
+      "name": "L. Camara",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Monaco"
+    },
+    {
+      "name": "N. Jackson",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Bayern München"
+    },
+    {
+      "name": "É. Mendy",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "P. Ciss",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Rayo Vallecano"
+    },
+    {
+      "name": "M. Diaw",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Le Havre"
+    },
+    {
+      "name": "Y. Diouf",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Nice"
+    },
+    {
+      "name": "C. Ndiaye",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Samsunspor"
+    },
+    {
+      "name": "I. Ndiaye",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Everton"
+    },
+    {
+      "name": "H. Diarra",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Sunderland"
+    },
+    {
+      "name": "I. Gueye",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Everton"
+    },
+    {
+      "name": "E. Diouf",
+      "pos": "CB",
+      "rating": 74,
+      "club": "West Ham"
+    },
+    {
+      "name": "A. Mendy",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Nice"
+    },
+    {
+      "name": "M. Sarr",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "A. Seck",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Maccabi Haifa"
+    },
+    {
+      "name": "P. Sarr",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Tottenham"
+    },
+    {
+      "name": "Assane Diao",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Como"
+    },
+    {
+      "name": "I. Mbaye",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "I. Jakobs",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "Bara Ndiaye",
+      "pos": "CM",
+      "rating": 67,
+      "club": "Bayern München"
+    }
+  ],
+  "ALG": [
+    {
+      "name": "A. Boulbina",
+      "pos": "ST",
+      "rating": 87,
+      "club": "Al-Duhail SC"
+    },
+    {
+      "name": "A. Hadj-Moussa",
+      "pos": "ST",
+      "rating": 85,
+      "club": "Feyenoord"
+    },
+    {
+      "name": "R. Mahrez",
+      "pos": "ST",
+      "rating": 85,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "F. Ghedjemis",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Frosinone"
+    },
+    {
+      "name": "A. Gouiri",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Marseille"
+    },
+    {
+      "name": "O. Benbot",
+      "pos": "GK",
+      "rating": 80,
+      "club": "USM Alger"
+    },
+    {
+      "name": "R. Bensebaïni",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "H. Aouar",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Al-Ittihad FC"
+    },
+    {
+      "name": "Y. Titraoui",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Charleroi"
+    },
+    {
+      "name": "A. Benbouali",
+      "pos": "ST",
+      "rating": 80,
+      "club": "Gyori ETO FC"
+    },
+    {
+      "name": "N. Bentaleb",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Lille"
+    },
+    {
+      "name": "I. Maza",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "R. Zerrouki",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Twente"
+    },
+    {
+      "name": "A. Mandi",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Lille"
+    },
+    {
+      "name": "L. Zidane",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Granada CF"
+    },
+    {
+      "name": "R. Aït-Nouri",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Manchester City"
+    },
+    {
+      "name": "J. Hadjam",
+      "pos": "CB",
+      "rating": 77,
+      "club": "BSC Young Boys"
+    },
+    {
+      "name": "M. Tougai",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Algeria"
+    },
+    {
+      "name": "M. Amoura",
+      "pos": "ST",
+      "rating": 76,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "name": "Z. Belaïd",
+      "pos": "CB",
+      "rating": 74,
+      "club": "JS Kabylie"
+    },
+    {
+      "name": "H. Boudaoui",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Nice"
+    },
+    {
+      "name": "F. Chaïbi",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Eintracht Frankfurt"
+    },
+    {
+      "name": "R. Belghali",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Hellas Verona"
+    },
+    {
+      "name": "S. Chergui",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Paris FC"
+    },
+    {
+      "name": "M. Mastil",
+      "pos": "GK",
+      "rating": 65,
+      "club": ""
+    },
+    {
+      "name": "A. Abada",
+      "pos": "CB",
+      "rating": 65,
+      "club": "ASO Chlef"
+    }
+  ],
+  "ARG": [
+    {
+      "name": "L. Messi",
+      "pos": "ST",
+      "rating": 95,
+      "club": "Inter Miami"
+    },
+    {
+      "name": "L. Paredes",
+      "pos": "CM",
+      "rating": 88,
+      "club": "Boca Juniors"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "pos": "ST",
+      "rating": 84,
+      "club": "Inter"
+    },
+    {
+      "name": "J. Álvarez",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "N. Paz",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Como"
+    },
+    {
+      "name": "J. López",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Palmeiras"
+    },
+    {
+      "name": "J. Musso",
+      "pos": "GK",
+      "rating": 82,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "V. Barco",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Strasbourg"
+    },
+    {
+      "name": "R. De Paul",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Inter Miami"
+    },
+    {
+      "name": "E. Fernández",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Chelsea"
+    },
+    {
+      "name": "G. Montiel",
+      "pos": "CB",
+      "rating": 79,
+      "club": "River Plate"
+    },
+    {
+      "name": "C. Romero",
+      "pos": "CB",
+      "rating": 79,
+      "club": "Tottenham"
+    },
+    {
+      "name": "E. Palacios",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Manchester United"
+    },
+    {
+      "name": "N. Otamendi",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Benfica"
+    },
+    {
+      "name": "G. Lo Celso",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Real Betis"
+    },
+    {
+      "name": "G. Rulli",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Marseille"
+    },
+    {
+      "name": "E. Martínez",
+      "pos": "GK",
+      "rating": 76,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "N. González",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "A. Mac Allister",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Liverpool"
+    },
+    {
+      "name": "T. Almada",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "G. Simeone",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "L. Balerdi",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Marseille"
+    },
+    {
+      "name": "F. Medina",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Marseille"
+    },
+    {
+      "name": "N. Molina",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Atletico Madrid"
+    },
+    {
+      "name": "N. Tagliafico",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Lyon"
+    }
+  ],
+  "AUT": [
+    {
+      "name": "M. Svoboda",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Venezia"
+    },
+    {
+      "name": "S. Kalajdzic",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Lask Linz"
+    },
+    {
+      "name": "F. Wiegele",
+      "pos": "GK",
+      "rating": 80,
+      "club": "Plzen"
+    },
+    {
+      "name": "P. Pentz",
+      "pos": "GK",
+      "rating": 79,
+      "club": "Brondby"
+    },
+    {
+      "name": "C. Baumgartner",
+      "pos": "CM",
+      "rating": 79,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "A. Schlager",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Red Bull Salzburg"
+    },
+    {
+      "name": "M. Arnautovic",
+      "pos": "ST",
+      "rating": 78,
+      "club": "FK Crvena Zvezda"
+    },
+    {
+      "name": "P. Lienhart",
+      "pos": "CB",
+      "rating": 77,
+      "club": "SC Freiburg"
+    },
+    {
+      "name": "R. Schmid",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Werder Bremen"
+    },
+    {
+      "name": "P. Wanner",
+      "pos": "CM",
+      "rating": 77,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "P. Wimmer",
+      "pos": "CM",
+      "rating": 77,
+      "club": "VfL Wolfsburg"
+    },
+    {
+      "name": "S. Posch",
+      "pos": "CB",
+      "rating": 76,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "F. Grillitsch",
+      "pos": "CM",
+      "rating": 76,
+      "club": "SC Braga"
+    },
+    {
+      "name": "M. Gregoritsch",
+      "pos": "CM",
+      "rating": 76,
+      "club": "FC Augsburg"
+    },
+    {
+      "name": "D. Affengruber",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Elche"
+    },
+    {
+      "name": "A. Prass",
+      "pos": "CB",
+      "rating": 75,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "M. Sabitzer",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "X. Schlager",
+      "pos": "CM",
+      "rating": 75,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "A. Schöpf",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Wolfsberger AC"
+    },
+    {
+      "name": "N. Seiwald",
+      "pos": "CM",
+      "rating": 75,
+      "club": "RB Leipzig"
+    },
+    {
+      "name": "K. Danso",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Tottenham"
+    },
+    {
+      "name": "M. Friedl",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Werder Bremen"
+    },
+    {
+      "name": "P. Mwene",
+      "pos": "CB",
+      "rating": 73,
+      "club": "FSV Mainz 05"
+    },
+    {
+      "name": "C. Chukwuemeka",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Borussia Dortmund"
+    },
+    {
+      "name": "K. Laimer",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Bayern München"
+    },
+    {
+      "name": "D. Alaba",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Real Madrid"
+    }
+  ],
+  "JOR": [
+    {
+      "name": "Ibrahim Sabra",
+      "pos": "ST",
+      "rating": 78,
+      "club": "NK Lokomotiva Zagreb"
+    },
+    {
+      "name": "Mousa Tamari",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Rennes"
+    },
+    {
+      "name": "Nizar Al Rashdan",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Qatar SC"
+    },
+    {
+      "name": "Yazan Al Arab",
+      "pos": "CB",
+      "rating": 74,
+      "club": "FC Seoul"
+    },
+    {
+      "name": "A. Azaizeh",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Al Shabab"
+    },
+    {
+      "name": "Amer Jamous",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Al Wihdat"
+    },
+    {
+      "name": "M. Abualnadi",
+      "pos": "CB",
+      "rating": 69,
+      "club": "Selangor"
+    },
+    {
+      "name": "Abdallah Naseeb",
+      "pos": "CB",
+      "rating": 68,
+      "club": "Al Zawra'a"
+    },
+    {
+      "name": "Yazid Abu Layla",
+      "pos": "GK",
+      "rating": 66,
+      "club": "Jordan"
+    },
+    {
+      "name": "Abdallah Al Fakhouri",
+      "pos": "GK",
+      "rating": 66,
+      "club": "Al Wihdat"
+    },
+    {
+      "name": "Noor Al Rawabdeh",
+      "pos": "CM",
+      "rating": 66,
+      "club": "Selangor"
+    },
+    {
+      "name": "Saed Al Rosan",
+      "pos": "CB",
+      "rating": 65,
+      "club": "Al Hussein"
+    },
+    {
+      "name": "Rajaei Ayed",
+      "pos": "CM",
+      "rating": 65,
+      "club": "Al Hussein"
+    },
+    {
+      "name": "Mahmoud Al Mardi",
+      "pos": "ST",
+      "rating": 64,
+      "club": "Al Hussein"
+    },
+    {
+      "name": "Ali Olwan",
+      "pos": "ST",
+      "rating": 64,
+      "club": "Al-Sailiya"
+    },
+    {
+      "name": "Saleem Obaid",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Al Hussein"
+    },
+    {
+      "name": "Mohannad Abu Taha",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Jordan"
+    },
+    {
+      "name": "Ibrahim Sa'deh",
+      "pos": "CM",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "Mohammed Abu Zurayq",
+      "pos": "ST",
+      "rating": 63,
+      "club": "Jordan"
+    },
+    {
+      "name": "O. Al Fakhouri",
+      "pos": "ST",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "Noureddin Zaid",
+      "pos": "GK",
+      "rating": 62,
+      "club": "Jordan"
+    },
+    {
+      "name": "H. Abu Al Dahab",
+      "pos": "CB",
+      "rating": 62,
+      "club": ""
+    },
+    {
+      "name": "M. Abu Hasheesh",
+      "pos": "CB",
+      "rating": 62,
+      "club": ""
+    },
+    {
+      "name": "A. Badawi",
+      "pos": "CB",
+      "rating": 62,
+      "club": ""
+    },
+    {
+      "name": "Ehsan Haddad",
+      "pos": "CB",
+      "rating": 62,
+      "club": ""
+    },
+    {
+      "name": "M. Al Daoud",
+      "pos": "CM",
+      "rating": 62,
+      "club": ""
+    }
+  ],
+  "COL": [
+    {
+      "name": "L. Suárez",
+      "pos": "ST",
+      "rating": 85,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "L. Díaz",
+      "pos": "CM",
+      "rating": 84,
+      "club": "Bayern München"
+    },
+    {
+      "name": "J. Arias",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Wolves"
+    },
+    {
+      "name": "J. Quintero",
+      "pos": "CM",
+      "rating": 83,
+      "club": "America de Cali"
+    },
+    {
+      "name": "J. Córdoba",
+      "pos": "ST",
+      "rating": 83,
+      "club": "FC Krasnodar"
+    },
+    {
+      "name": "J. Rodríguez",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Leon"
+    },
+    {
+      "name": "J. Carrascal",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Flamengo"
+    },
+    {
+      "name": "R. Rios",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Benfica"
+    },
+    {
+      "name": "Á. Montero",
+      "pos": "GK",
+      "rating": 78,
+      "club": "Millonarios"
+    },
+    {
+      "name": "G. Puerta",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Racing Santander"
+    },
+    {
+      "name": "C. Hernández",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Real Betis"
+    },
+    {
+      "name": "J. Lucumí",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Bologna"
+    },
+    {
+      "name": "D. Sánchez",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Galatasaray"
+    },
+    {
+      "name": "A. Gómez",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Vasco DA Gama"
+    },
+    {
+      "name": "Y. Mina",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Cagliari"
+    },
+    {
+      "name": "J. Campaz",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Rosario Central"
+    },
+    {
+      "name": "S. Arias",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Bahia"
+    },
+    {
+      "name": "W. Ditta",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Cruz Azul"
+    },
+    {
+      "name": "D. Muñoz",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "K. Castaño",
+      "pos": "CM",
+      "rating": 75,
+      "club": "River Plate"
+    },
+    {
+      "name": "J. Lerma",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "J. Portilla",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Talleres Cordoba"
+    },
+    {
+      "name": "D. Ospina",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Atletico Nacional"
+    },
+    {
+      "name": "C. Vargas",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Atlas"
+    },
+    {
+      "name": "J. Mojica",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Mallorca"
+    },
+    {
+      "name": "D. Machado",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Nantes"
+    }
+  ],
+  "COD": [
+    {
+      "name": "B. Cipenga",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Castellón"
+    },
+    {
+      "name": "M. Epolo",
+      "pos": "GK",
+      "rating": 80,
+      "club": "Standard Liege"
+    },
+    {
+      "name": "G. Kakuta",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Sakaryaspor"
+    },
+    {
+      "name": "L. Mpasi",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Congo DR"
+    },
+    {
+      "name": "C. Mbemba",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Lille"
+    },
+    {
+      "name": "N. Mbuku",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Montpellier"
+    },
+    {
+      "name": "S. Banza",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Al-Jazira"
+    },
+    {
+      "name": "J. Kayembe",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Genk"
+    },
+    {
+      "name": "S. Moutoussamy",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Atromitos"
+    },
+    {
+      "name": "A. Masuaku",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Congo DR"
+    },
+    {
+      "name": "E. Kayembe",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Watford"
+    },
+    {
+      "name": "A. Tshibola",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Kilmarnock"
+    },
+    {
+      "name": "M. Elia",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Alanyaspor"
+    },
+    {
+      "name": "F. Mayele",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Pyramids FC"
+    },
+    {
+      "name": "D. Batubinsika",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Larisa"
+    },
+    {
+      "name": "N. Sadiki",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Sunderland"
+    },
+    {
+      "name": "C. Bakambu",
+      "pos": "ST",
+      "rating": 73,
+      "club": "Real Betis"
+    },
+    {
+      "name": "N. Mukau",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Lille"
+    },
+    {
+      "name": "T. Bongonda",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Congo DR"
+    },
+    {
+      "name": "Y. Wissa",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Newcastle"
+    },
+    {
+      "name": "G. Kalulu",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Congo DR"
+    },
+    {
+      "name": "S. Kapuadi",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Legia Warszawa"
+    },
+    {
+      "name": "A. Tuanzebe",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Burnley"
+    },
+    {
+      "name": "A. Wan-Bissaka",
+      "pos": "CB",
+      "rating": 71,
+      "club": "West Ham"
+    },
+    {
+      "name": "C. Pickel",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Espanyol"
+    },
+    {
+      "name": "T. Fayulu",
+      "pos": "GK",
+      "rating": 65,
+      "club": "FC Noah"
+    }
+  ],
+  "POR": [
+    {
+      "name": "João Félix",
+      "pos": "ST",
+      "rating": 92,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "pos": "CM",
+      "rating": 89,
+      "club": "Manchester United"
+    },
+    {
+      "name": "Rúben Neves",
+      "pos": "CM",
+      "rating": 89,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Vitinha",
+      "pos": "CM",
+      "rating": 86,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Gonçalo Inácio",
+      "pos": "CB",
+      "rating": 83,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Al-Nassr"
+    },
+    {
+      "name": "João Neves",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Trincão",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "João Cancelo",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Nuno Mendes",
+      "pos": "CB",
+      "rating": 80,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Gonçalo Guedes",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Real Sociedad"
+    },
+    {
+      "name": "Pedro Neto",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Chelsea"
+    },
+    {
+      "name": "Tomás Araújo",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Benfica"
+    },
+    {
+      "name": "Rúben Dias",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Manchester City"
+    },
+    {
+      "name": "Diogo Costa",
+      "pos": "GK",
+      "rating": 77,
+      "club": "FC Porto"
+    },
+    {
+      "name": "Rui Silva",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Sporting CP"
+    },
+    {
+      "name": "Samú Costa",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Mallorca"
+    },
+    {
+      "name": "Matheus Nunes",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Manchester City"
+    },
+    {
+      "name": "Francisco Conceição",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Juventus"
+    },
+    {
+      "name": "Rafael Leão",
+      "pos": "CM",
+      "rating": 77,
+      "club": "AC Milan"
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Paris Saint Germain"
+    },
+    {
+      "name": "Diogo Dalot",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Manchester United"
+    },
+    {
+      "name": "Bernardo Silva",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Manchester City"
+    },
+    {
+      "name": "José Sá",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Wolves"
+    },
+    {
+      "name": "Nélson Semedo",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Fenerbahçe"
+    },
+    {
+      "name": "Renato Veiga",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Villarreal"
+    }
+  ],
+  "UZB": [
+    {
+      "name": "E. Shomurodov",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Başakşehir"
+    },
+    {
+      "name": "A. Ulmasaliev",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Olmaliq"
+    },
+    {
+      "name": "A. Fayzullaev",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Başakşehir"
+    },
+    {
+      "name": "U. Eshmurodov",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Nasaf"
+    },
+    {
+      "name": "A. Khusanov",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Manchester City"
+    },
+    {
+      "name": "O. Hamrobekov",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Bunyodkor"
+    },
+    {
+      "name": "R. Ashurmatov",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Esteghlal FC"
+    },
+    {
+      "name": "A. Ganiyev",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Al Bataeh"
+    },
+    {
+      "name": "A. Nematov",
+      "pos": "GK",
+      "rating": 73,
+      "club": "Nasaf"
+    },
+    {
+      "name": "A. Abdullaev",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Dibba Al-Fujairah"
+    },
+    {
+      "name": "O. Shukurov",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Baniyas SC"
+    },
+    {
+      "name": "I. Sergeev",
+      "pos": "ST",
+      "rating": 72,
+      "club": "Pakhtakor"
+    },
+    {
+      "name": "A. Mozgovoy",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Nasaf"
+    },
+    {
+      "name": "K. Alijonov",
+      "pos": "CB",
+      "rating": 65,
+      "club": "Pakhtakor"
+    },
+    {
+      "name": "J. Iskanderov",
+      "pos": "CM",
+      "rating": 64,
+      "club": "Neftchi"
+    },
+    {
+      "name": "O. Orunov",
+      "pos": "ST",
+      "rating": 64,
+      "club": "Persepolis FC"
+    },
+    {
+      "name": "A. Amonov",
+      "pos": "ST",
+      "rating": 64,
+      "club": "Bunyodkor"
+    },
+    {
+      "name": "B. Ergashev",
+      "pos": "GK",
+      "rating": 63,
+      "club": "Neftchi"
+    },
+    {
+      "name": "J. Urozov",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Uzbekistan"
+    },
+    {
+      "name": "J. Masharipov",
+      "pos": "CM",
+      "rating": 63,
+      "club": "Esteghlal FC"
+    },
+    {
+      "name": "S. Esanov",
+      "pos": "CM",
+      "rating": 63,
+      "club": ""
+    },
+    {
+      "name": "D. Khamdamov",
+      "pos": "CM",
+      "rating": 63,
+      "club": "Pakhtakor"
+    },
+    {
+      "name": "B. Karimov",
+      "pos": "CB",
+      "rating": 62,
+      "club": "Surkhon"
+    },
+    {
+      "name": "U. Yusupov",
+      "pos": "GK",
+      "rating": 61,
+      "club": "Foolad FC"
+    },
+    {
+      "name": "S. Nasrullayev",
+      "pos": "CM",
+      "rating": 61,
+      "club": "Nasaf"
+    },
+    {
+      "name": "F. Sayfiev",
+      "pos": "CB",
+      "rating": 61,
+      "club": ""
+    }
+  ],
+  "CRO": [
+    {
+      "name": "P. Musa",
+      "pos": "ST",
+      "rating": 86,
+      "club": "FC Dallas"
+    },
+    {
+      "name": "M. Baturina",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Como"
+    },
+    {
+      "name": "T. Fruk",
+      "pos": "CM",
+      "rating": 81,
+      "club": "HNK Rijeka"
+    },
+    {
+      "name": "M. Pasalic",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Orlando City SC"
+    },
+    {
+      "name": "A. Kramaric",
+      "pos": "CM",
+      "rating": 80,
+      "club": "1899 Hoffenheim"
+    },
+    {
+      "name": "J. Gvardiol",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Manchester City"
+    },
+    {
+      "name": "L. Vuskovic",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Hamburger SV"
+    },
+    {
+      "name": "L. Modric",
+      "pos": "CM",
+      "rating": 78,
+      "club": "AC Milan"
+    },
+    {
+      "name": "N. Moro",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Bologna"
+    },
+    {
+      "name": "I. Perisic",
+      "pos": "CM",
+      "rating": 78,
+      "club": "PSV Eindhoven"
+    },
+    {
+      "name": "D. Livakovic",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Dinamo Zagreb"
+    },
+    {
+      "name": "M. Pasalic",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Atalanta"
+    },
+    {
+      "name": "N. Vlasic",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Torino"
+    },
+    {
+      "name": "L. Sucic",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Real Sociedad"
+    },
+    {
+      "name": "P. Sucic",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Inter"
+    },
+    {
+      "name": "A. Budimir",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Osasuna"
+    },
+    {
+      "name": "I. Matanovic",
+      "pos": "ST",
+      "rating": 76,
+      "club": "SC Freiburg"
+    },
+    {
+      "name": "D. Kotarski",
+      "pos": "GK",
+      "rating": 75,
+      "club": "FC Copenhagen"
+    },
+    {
+      "name": "I. Pandur",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Hull City"
+    },
+    {
+      "name": "M. Erlic",
+      "pos": "CB",
+      "rating": 75,
+      "club": "FC Midtjylland"
+    },
+    {
+      "name": "J. Stanisic",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Bayern München"
+    },
+    {
+      "name": "D. Caleta-Car",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Real Sociedad"
+    },
+    {
+      "name": "M. Pongracic",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Fiorentina"
+    },
+    {
+      "name": "J. Sutalo",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Ajax"
+    },
+    {
+      "name": "K. Jakic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "FC Augsburg"
+    },
+    {
+      "name": "M. Kovacic",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Manchester City"
+    }
+  ],
+  "ENG": [
+    {
+      "name": "H. Kane",
+      "pos": "ST",
+      "rating": 95,
+      "club": "Bayern München"
+    },
+    {
+      "name": "I. Toney",
+      "pos": "ST",
+      "rating": 85,
+      "club": "Al-Ahli Jeddah"
+    },
+    {
+      "name": "D. Rice",
+      "pos": "CM",
+      "rating": 83,
+      "club": "Arsenal"
+    },
+    {
+      "name": "A. Gordon",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Newcastle"
+    },
+    {
+      "name": "M. Guéhi",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "E. Anderson",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Nottingham Forest"
+    },
+    {
+      "name": "J. Bellingham",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Real Madrid"
+    },
+    {
+      "name": "B. Saka",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Arsenal"
+    },
+    {
+      "name": "M. Rashford",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Barcelona"
+    },
+    {
+      "name": "J. Trafford",
+      "pos": "GK",
+      "rating": 78,
+      "club": "England U21"
+    },
+    {
+      "name": "R. James",
+      "pos": "CB",
+      "rating": 78,
+      "club": "Chelsea"
+    },
+    {
+      "name": "E. Eze",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Arsenal"
+    },
+    {
+      "name": "J. Pickford",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Everton"
+    },
+    {
+      "name": "E. Konsa",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "M. Rogers",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "N. Madueke",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Arsenal"
+    },
+    {
+      "name": "O. Watkins",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Aston Villa"
+    },
+    {
+      "name": "D. Henderson",
+      "pos": "GK",
+      "rating": 75,
+      "club": "Crystal Palace"
+    },
+    {
+      "name": "N. Oreilly",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Manchester City"
+    },
+    {
+      "name": "J. Quansah",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Bayer Leverkusen"
+    },
+    {
+      "name": "J. Stones",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Manchester City"
+    },
+    {
+      "name": "K. Mainoo",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Manchester United"
+    },
+    {
+      "name": "T. Livramento",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Newcastle"
+    },
+    {
+      "name": "J. Henderson",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Brentford"
+    },
+    {
+      "name": "D. Burn",
+      "pos": "CB",
+      "rating": 71,
+      "club": "Newcastle"
+    },
+    {
+      "name": "D. Spence",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Tottenham"
+    }
+  ],
+  "GHA": [
+    {
+      "name": "C. Bonsu Baah",
+      "pos": "ST",
+      "rating": 82,
+      "club": "Al-Qadisiyah FC"
+    },
+    {
+      "name": "A. Semenyo",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Bournemouth"
+    },
+    {
+      "name": "A. Boakye",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Saint Etienne"
+    },
+    {
+      "name": "L. Zigi",
+      "pos": "GK",
+      "rating": 78,
+      "club": "FC ST. Gallen"
+    },
+    {
+      "name": "B. Thomas-Asante",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Coventry"
+    },
+    {
+      "name": "Caleb Marfo Yirenkyi",
+      "pos": "CM",
+      "rating": 77,
+      "club": "FC Nordsjaelland"
+    },
+    {
+      "name": "J. Anang",
+      "pos": "GK",
+      "rating": 76,
+      "club": "St Patrick's Athl."
+    },
+    {
+      "name": "J. Adjetey",
+      "pos": "CB",
+      "rating": 76,
+      "club": "FC Basel 1893"
+    },
+    {
+      "name": "A. Fatawu",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Leicester"
+    },
+    {
+      "name": "D. Luckassen",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Pafos"
+    },
+    {
+      "name": "A. Seidu",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Rennes"
+    },
+    {
+      "name": "P. Adu",
+      "pos": "CM",
+      "rating": 75,
+      "club": "Plzen"
+    },
+    {
+      "name": "I. Williams",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Athletic Club"
+    },
+    {
+      "name": "G. Mensah",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Auxerre"
+    },
+    {
+      "name": "J. Opoku",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Başakşehir"
+    },
+    {
+      "name": "K. Peprah Oppong",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Nice"
+    },
+    {
+      "name": "M. Senaya",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Auxerre"
+    },
+    {
+      "name": "A. Baba",
+      "pos": "CB",
+      "rating": 74,
+      "club": "PAOK"
+    },
+    {
+      "name": "K. Sulemana",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Atalanta"
+    },
+    {
+      "name": "E. Owusu",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Auxerre"
+    },
+    {
+      "name": "T. Partey",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Villarreal"
+    },
+    {
+      "name": "J. Ayew",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Leicester"
+    },
+    {
+      "name": "K. Sibo",
+      "pos": "CM",
+      "rating": 70,
+      "club": "Oviedo"
+    },
+    {
+      "name": "E. Nuamah",
+      "pos": "ST",
+      "rating": 66,
+      "club": "Ghana"
+    },
+    {
+      "name": "B. Asare",
+      "pos": "GK",
+      "rating": 63,
+      "club": "Ghana"
+    },
+    {
+      "name": "A. Mumin",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Ghana"
+    }
+  ],
+  "PAN": [
+    {
+      "name": "A. Andrade",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Lask Linz"
+    },
+    {
+      "name": "A. Londoño",
+      "pos": "CM",
+      "rating": 81,
+      "club": "Universidad Catolica"
+    },
+    {
+      "name": "I. Díaz",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Leon"
+    },
+    {
+      "name": "C. Harvey",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Minnesota United FC"
+    },
+    {
+      "name": "C. Yanis",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Cobresal"
+    },
+    {
+      "name": "T. Rodríguez",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Monagas SC"
+    },
+    {
+      "name": "L. Mejía",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Club Nacional"
+    },
+    {
+      "name": "O. Mosquera",
+      "pos": "GK",
+      "rating": 77,
+      "club": "Al-Fayha"
+    },
+    {
+      "name": "J. Gutiérrez",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Deportivo La Guaira"
+    },
+    {
+      "name": "A. Carrasquilla",
+      "pos": "CM",
+      "rating": 77,
+      "club": "U.N.A.M. - Pumas"
+    },
+    {
+      "name": "C. Waterman",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Coquimbo Unido"
+    },
+    {
+      "name": "C. Blackman",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Slovan Bratislava"
+    },
+    {
+      "name": "A. Godoy",
+      "pos": "CM",
+      "rating": 76,
+      "club": "San Diego"
+    },
+    {
+      "name": "J. Rodríguez",
+      "pos": "CM",
+      "rating": 76,
+      "club": "FC Juarez"
+    },
+    {
+      "name": "J. Córdoba",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Norwich"
+    },
+    {
+      "name": "J. Fajardo",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Universidad Catolica"
+    },
+    {
+      "name": "F. Escobar",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Deportivo Saprissa"
+    },
+    {
+      "name": "A. Murillo",
+      "pos": "CB",
+      "rating": 74,
+      "club": "Marseille"
+    },
+    {
+      "name": "Y. Bárcenas",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Mazatlán"
+    },
+    {
+      "name": "E. Fariña",
+      "pos": "CB",
+      "rating": 73,
+      "club": "Nizhny Novgorod"
+    },
+    {
+      "name": "C. Samudio",
+      "pos": "GK",
+      "rating": 65,
+      "club": "CD Marathon"
+    },
+    {
+      "name": "C. Martinez",
+      "pos": "CM",
+      "rating": 65,
+      "club": ""
+    },
+    {
+      "name": "R. Miller",
+      "pos": "CB",
+      "rating": 64,
+      "club": ""
+    },
+    {
+      "name": "É. Davis",
+      "pos": "CB",
+      "rating": 63,
+      "club": "Panama"
+    },
+    {
+      "name": "A. Quintero",
+      "pos": "CM",
+      "rating": 62,
+      "club": "Plaza Amador"
+    },
+    {
+      "name": "J. Ramos",
+      "pos": "CB",
+      "rating": 61,
+      "club": "Independiente de La Chorrera"
+    }
+  ],
+  "_lastUpdated": "2026-06-12T20:26:52.605Z"
+}

@@ -1,0 +1,8 @@
+# secrets
+scripts/.env
+
+# generated team-id cache
+data/.team_ids.json
+
+node_modules/
+.DS_Store

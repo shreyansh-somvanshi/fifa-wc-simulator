@@ -1,0 +1,16 @@
+{
+  "name": "fifa-wc-simulator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "FIFA World Cup 2026 live hub — schedule, squads, standings & Monte-Carlo simulator powered by live API-Football data.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check:api": "node scripts/check_api.js",
+    "fetch:results": "node scripts/fetch_results.js",
+    "fetch:squads": "node scripts/fetch_squads.js",
+    "serve": "python3 -m http.server 8000 --bind 127.0.0.1"
+  },
+  "license": "MIT"
+}
