@@ -195,12 +195,14 @@
       "away": "SUI",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 0,
+      "away_score": 1,
       "fixture_id": 1489373,
       "venue_name": "Levi's Stadium",
-      "venue_city": "San Francisco Bay Area"
+      "venue_city": "Santa Clara",
+      "home_form": 6.68,
+      "away_form": 7.04
     },
     {
       "id": "M012",
@@ -1721,5 +1723,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-13T15:52:08.075Z"
+  "lastUpdated": "2026-06-13T20:50:08.435Z"
 }
