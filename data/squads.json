@@ -50,7 +50,7 @@
     },
     {
       "name": "V. Coufal",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 78,
       "club": "1899 Hoffenheim"
     },
@@ -104,7 +104,7 @@
     },
     {
       "name": "J. Zelený",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 75,
       "club": "Sparta Praha"
     },
@@ -517,16 +517,16 @@
       "club": "FK Crvena Zvezda"
     },
     {
+      "name": "Lee Kang-In",
+      "pos": "ST",
+      "rating": 78,
+      "club": "Paris Saint Germain"
+    },
+    {
       "name": "Lee Gi-Hyuk",
       "pos": "CB",
       "rating": 77,
       "club": "Gangwon FC"
-    },
-    {
-      "name": "Lee Kang-In",
-      "pos": "CM",
-      "rating": 77,
-      "club": "Paris Saint Germain"
     },
     {
       "name": "Kim Moon-Hwan",
@@ -589,6 +589,12 @@
       "club": "FC Tokyo"
     },
     {
+      "name": "Lee Jae-Sung",
+      "pos": "ST",
+      "rating": 74,
+      "club": "FSV Mainz 05"
+    },
+    {
       "name": "Yang Hyun-Jun",
       "pos": "ST",
       "rating": 74,
@@ -599,12 +605,6 @@
       "pos": "ST",
       "rating": 73,
       "club": "Stoke City"
-    },
-    {
-      "name": "Lee Jae-Sung",
-      "pos": "CM",
-      "rating": 73,
-      "club": "FSV Mainz 05"
     },
     {
       "name": "Hwang Hee-Chan",
@@ -646,8 +646,8 @@
     },
     {
       "name": "E. Bajraktarevic",
-      "pos": "ST",
-      "rating": 81,
+      "pos": "CM",
+      "rating": 80,
       "club": "PSV Eindhoven"
     },
     {
@@ -2133,6 +2133,12 @@
       "club": "Real Salt Lake"
     },
     {
+      "name": "R. Sosa",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Palmeiras"
+    },
+    {
       "name": "G. Olveira",
       "pos": "GK",
       "rating": 76,
@@ -2149,12 +2155,6 @@
       "pos": "CM",
       "rating": 76,
       "club": "Vancouver Whitecaps"
-    },
-    {
-      "name": "R. Sosa",
-      "pos": "CM",
-      "rating": 76,
-      "club": "Palmeiras"
     },
     {
       "name": "O. Gill",
@@ -5276,8 +5276,8 @@
     },
     {
       "name": "A. Qasem",
-      "pos": "ST",
-      "rating": 72,
+      "pos": "CM",
+      "rating": 71,
       "club": "Nashville SC"
     },
     {
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-13T12:09:25.114Z"
+  "_lastUpdated": "2026-06-14T12:24:45.156Z"
 }
