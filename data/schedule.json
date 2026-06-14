@@ -195,8 +195,8 @@
       "away": "SUI",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 0,
+      "status": "played",
+      "home_score": 1,
       "away_score": 1,
       "fixture_id": 1489373,
       "venue_name": "Levi's Stadium",
@@ -271,12 +271,14 @@
       "away": "MAR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 1,
       "fixture_id": 1489371,
       "venue_name": "MetLife Stadium",
-      "venue_city": "New York New Jersey"
+      "venue_city": "East Rutherford",
+      "home_form": 6.87,
+      "away_form": 6.83
     },
     {
       "id": "M016",
@@ -289,12 +291,14 @@
       "away": "HAI",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 0,
       "fixture_id": 1489372,
       "venue_name": "Gillette Stadium",
-      "venue_city": "Boston"
+      "venue_city": "Boston",
+      "away_form": 6.76,
+      "home_form": 7.14
     },
     {
       "id": "M017",
@@ -379,12 +383,14 @@
       "away": "TUR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 2,
+      "away_score": 0,
       "fixture_id": 1539001,
       "venue_name": "BC Place",
-      "venue_city": "Vancouver"
+      "venue_city": "Vancouver",
+      "home_form": 7.41,
+      "away_form": 6.61
     },
     {
       "id": "M022",
@@ -1723,5 +1729,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-13T20:50:08.435Z"
+  "lastUpdated": "2026-06-14T08:57:18.404Z"
 }
