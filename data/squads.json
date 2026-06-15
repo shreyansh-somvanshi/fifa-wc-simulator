@@ -765,6 +765,12 @@
       "club": "Brondby"
     },
     {
+      "name": "A. Malic",
+      "pos": "CB",
+      "rating": 72,
+      "club": "Sturm Graz"
+    },
+    {
       "name": "N. Mujakic",
       "pos": "CB",
       "rating": 71,
@@ -775,12 +781,6 @@
       "pos": "CM",
       "rating": 71,
       "club": "Karlsruher SC"
-    },
-    {
-      "name": "N. Celik",
-      "pos": "CB",
-      "rating": 69,
-      "club": "Lens"
     },
     {
       "name": "M. Jurkas",
@@ -863,6 +863,12 @@
       "club": "Toronto FC"
     },
     {
+      "name": "J. Nelson",
+      "pos": "ST",
+      "rating": 76,
+      "club": "Vancouver Whitecaps"
+    },
+    {
       "name": "A. Jones",
       "pos": "CB",
       "rating": 75,
@@ -909,12 +915,6 @@
       "pos": "CM",
       "rating": 74,
       "club": "Hull City"
-    },
-    {
-      "name": "M. Flores",
-      "pos": "CM",
-      "rating": 74,
-      "club": "Tigres UANL"
     },
     {
       "name": "J. David",
@@ -1168,7 +1168,7 @@
     },
     {
       "name": "D. Zakaria",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 77,
       "club": "Monaco"
     },
@@ -1271,16 +1271,16 @@
       "club": "Barcelona"
     },
     {
-      "name": "Vinícius Júnior",
-      "pos": "ST",
-      "rating": 86,
-      "club": "Real Madrid"
-    },
-    {
       "name": "Neymar",
       "pos": "ST",
       "rating": 84,
       "club": "Santos"
+    },
+    {
+      "name": "Vinícius Júnior",
+      "pos": "CM",
+      "rating": 84,
+      "club": "Real Madrid"
     },
     {
       "name": "Ibañez",
@@ -1355,12 +1355,6 @@
       "club": "Zenit"
     },
     {
-      "name": "Wesley",
-      "pos": "CB",
-      "rating": 78,
-      "club": "AS Roma"
-    },
-    {
       "name": "Danilo",
       "pos": "CB",
       "rating": 78,
@@ -1389,6 +1383,12 @@
       "pos": "CM",
       "rating": 77,
       "club": "Botafogo"
+    },
+    {
+      "name": "Éderson Silva",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Atalanta"
     },
     {
       "name": "Lucas Paquetá",
@@ -1593,12 +1593,6 @@
       "club": "Hoffenheim II"
     },
     {
-      "name": "A. Ezzalzouli",
-      "pos": "CM",
-      "rating": 83,
-      "club": "Real Betis"
-    },
-    {
       "name": "I. Saibari",
       "pos": "ST",
       "rating": 82,
@@ -1653,10 +1647,10 @@
       "club": "Real Madrid"
     },
     {
-      "name": "N. Aguerd",
+      "name": "M. Saâdane",
       "pos": "CB",
       "rating": 77,
-      "club": "Marseille"
+      "club": "Al-Fateh"
     },
     {
       "name": "N. El Aynaoui",
@@ -1699,6 +1693,12 @@
       "pos": "CB",
       "rating": 74,
       "club": "KV Mechelen"
+    },
+    {
+      "name": "A. Sbaï",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Angers"
     },
     {
       "name": "I. Diop",
@@ -3281,6 +3281,12 @@
       "club": "Leeds"
     },
     {
+      "name": "S. Machino",
+      "pos": "ST",
+      "rating": 74,
+      "club": "Borussia Mönchengladbach"
+    },
+    {
       "name": "K. Itakura",
       "pos": "CB",
       "rating": 73,
@@ -3291,12 +3297,6 @@
       "pos": "CB",
       "rating": 73,
       "club": "Le Havre"
-    },
-    {
-      "name": "W. Endo",
-      "pos": "CM",
-      "rating": 73,
-      "club": "Liverpool"
     },
     {
       "name": "Y. Sugawara",
@@ -3501,16 +3501,16 @@
       "club": "Holstein Kiel"
     },
     {
-      "name": "B. Nygren",
-      "pos": "ST",
-      "rating": 79,
-      "club": "Celtic"
-    },
-    {
       "name": "V. Johansson",
       "pos": "GK",
       "rating": 78,
       "club": "Stoke City"
+    },
+    {
+      "name": "B. Nygren",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Celtic"
     },
     {
       "name": "J. Widell Zetterström",
@@ -4005,6 +4005,12 @@
       "club": "Masr"
     },
     {
+      "name": "Ahmed Zizo",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Al Ahly"
+    },
+    {
       "name": "Mostafa Shobeir",
       "pos": "GK",
       "rating": 77,
@@ -4087,12 +4093,6 @@
       "pos": "CB",
       "rating": 68,
       "club": "Egypt"
-    },
-    {
-      "name": "Ahmed Zizo",
-      "pos": "ST",
-      "rating": 67,
-      "club": ""
     },
     {
       "name": "M. Alaa",
@@ -6029,12 +6029,6 @@
       "club": "Brondby"
     },
     {
-      "name": "C. Baumgartner",
-      "pos": "CM",
-      "rating": 79,
-      "club": "RB Leipzig"
-    },
-    {
       "name": "A. Schlager",
       "pos": "GK",
       "rating": 78,
@@ -6093,6 +6087,12 @@
       "pos": "CB",
       "rating": 75,
       "club": "Elche"
+    },
+    {
+      "name": "D. Ljubičić",
+      "pos": "CM",
+      "rating": 75,
+      "club": "FC Schalke 04"
     },
     {
       "name": "A. Prass",
@@ -6268,7 +6268,7 @@
       "name": "Ibrahim Sa'deh",
       "pos": "CM",
       "rating": 63,
-      "club": ""
+      "club": "Jordan"
     },
     {
       "name": "Mohammed Abu Zurayq",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-14T12:24:45.156Z"
+  "_lastUpdated": "2026-06-15T19:40:14.983Z"
 }
