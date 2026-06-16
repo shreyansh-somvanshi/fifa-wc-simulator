@@ -907,12 +907,14 @@
       "away": "SEN",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 3,
+      "away_score": 1,
       "fixture_id": 1489383,
       "venue_name": "MetLife Stadium",
-      "venue_city": "East Rutherford"
+      "venue_city": "East Rutherford",
+      "home_form": 7.11,
+      "away_form": 6.47
     },
     {
       "id": "M050",
@@ -925,12 +927,14 @@
       "away": "NOR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 1,
+      "away_score": 3,
       "fixture_id": 1539016,
       "venue_name": "Gillette Stadium",
-      "venue_city": "Boston"
+      "venue_city": "Boston",
+      "home_form": 6.6,
+      "away_form": 6.96
     },
     {
       "id": "M051",
@@ -1745,5 +1749,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-16T18:59:45.731Z"
+  "lastUpdated": "2026-06-16T23:55:53.857Z"
 }
