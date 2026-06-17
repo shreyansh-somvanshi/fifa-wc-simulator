@@ -1331,12 +1331,14 @@
       "away": "ENG",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 2,
+      "away_score": 3,
       "fixture_id": 1489384,
       "venue_name": "AT&T Stadium",
-      "venue_city": "Arlington"
+      "venue_city": "Arlington",
+      "away_form": 6.65,
+      "home_form": 6.7
     },
     {
       "id": "M073",
@@ -1755,5 +1757,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-17T19:25:32.776Z"
+  "lastUpdated": "2026-06-17T21:29:15.780Z"
 }
