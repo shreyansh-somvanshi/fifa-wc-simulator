@@ -3957,10 +3957,10 @@
       "club": "Al Ain"
     },
     {
-      "name": "Mohamed Salah",
+      "name": "Trézéguet",
       "pos": "ST",
       "rating": 82,
-      "club": "Liverpool"
+      "club": "Al Ahly"
     },
     {
       "name": "Emam Ashour",
@@ -3981,10 +3981,10 @@
       "club": "Al Ahly"
     },
     {
-      "name": "Trézéguet",
+      "name": "Mohamed Salah",
       "pos": "CM",
       "rating": 80,
-      "club": "Al Ahly"
+      "club": "Liverpool"
     },
     {
       "name": "Hamdi Fathy",
@@ -4790,7 +4790,7 @@
     },
     {
       "name": "Gavi",
-      "pos": "CM",
+      "pos": "ST",
       "rating": 78,
       "club": "Barcelona"
     },
@@ -4953,16 +4953,16 @@
       "club": "Atletico San Luis"
     },
     {
-      "name": "F. Viñas",
-      "pos": "ST",
-      "rating": 78,
-      "club": "Oviedo"
-    },
-    {
       "name": "A. Canobbio",
       "pos": "CM",
       "rating": 77,
       "club": "Fluminense"
+    },
+    {
+      "name": "F. Viñas",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Oviedo"
     },
     {
       "name": "J. Giménez",
@@ -5037,16 +5037,16 @@
       "club": "Manchester United"
     },
     {
-      "name": "F. Pellistri",
-      "pos": "ST",
-      "rating": 72,
-      "club": "Panathinaikos"
-    },
-    {
       "name": "R. Aguirre",
       "pos": "ST",
       "rating": 71,
       "club": "Club America"
+    },
+    {
+      "name": "F. Pellistri",
+      "pos": "CM",
+      "rating": 71,
+      "club": "Panathinaikos"
     },
     {
       "name": "M. Viña",
@@ -5538,8 +5538,8 @@
     },
     {
       "name": "S. Mané",
-      "pos": "ST",
-      "rating": 82,
+      "pos": "CM",
+      "rating": 81,
       "club": "Al-Nassr"
     },
     {
@@ -5553,12 +5553,6 @@
       "pos": "CM",
       "rating": 79,
       "club": "Villarreal"
-    },
-    {
-      "name": "I. Sarr",
-      "pos": "ST",
-      "rating": 79,
-      "club": "Crystal Palace"
     },
     {
       "name": "M. Niakhaté",
@@ -5583,6 +5577,12 @@
       "pos": "ST",
       "rating": 78,
       "club": "Bayern München"
+    },
+    {
+      "name": "I. Sarr",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Crystal Palace"
     },
     {
       "name": "É. Mendy",
@@ -6971,7 +6971,7 @@
       "club": "HNK Rijeka"
     },
     {
-      "name": "M. Pasalic",
+      "name": "Marco Pasalic",
       "pos": "CM",
       "rating": 81,
       "club": "Orlando City SC"
@@ -7019,7 +7019,7 @@
       "club": "Dinamo Zagreb"
     },
     {
-      "name": "M. Pasalic",
+      "name": "Mario Pasalic",
       "pos": "CM",
       "rating": 77,
       "club": "Atalanta"
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-16T19:05:29.329Z"
+  "_lastUpdated": "2026-06-17T16:54:02.243Z"
 }
