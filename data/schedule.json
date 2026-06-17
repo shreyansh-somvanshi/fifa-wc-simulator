@@ -1149,12 +1149,14 @@
       "away": "POR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 1,
       "fixture_id": 1539003,
       "venue_name": "NRG Stadium",
-      "venue_city": "Houston"
+      "venue_city": "Houston",
+      "away_form": 6.97,
+      "home_form": 6.63
     },
     {
       "id": "M063",
@@ -1334,7 +1336,7 @@
       "away_score": null,
       "fixture_id": 1489384,
       "venue_name": "AT&T Stadium",
-      "venue_city": "Dallas"
+      "venue_city": "Arlington"
     },
     {
       "id": "M073",
@@ -1753,5 +1755,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-17T16:48:21.870Z"
+  "lastUpdated": "2026-06-17T19:25:32.776Z"
 }
