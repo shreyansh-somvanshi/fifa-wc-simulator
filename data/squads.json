@@ -4139,16 +4139,22 @@
       "club": "Shabab Al Ahli Dubai"
     },
     {
+      "name": "A. Yousefi",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Sepahan FC"
+    },
+    {
       "name": "A. Beiranvand",
       "pos": "GK",
       "rating": 77,
       "club": "Tractor Sazi"
     },
     {
-      "name": "A. Yousefi",
-      "pos": "CB",
+      "name": "M. Ghaedi",
+      "pos": "ST",
       "rating": 77,
-      "club": "Sepahan FC"
+      "club": "Al Nasr"
     },
     {
       "name": "S. Khalilzadeh",
@@ -4161,12 +4167,6 @@
       "pos": "CB",
       "rating": 74,
       "club": "Esteghlal FC"
-    },
-    {
-      "name": "M. Mohebi",
-      "pos": "ST",
-      "rating": 72,
-      "club": "FC Rostov"
     },
     {
       "name": "M. Torabi",
@@ -4205,6 +4205,12 @@
       "club": "Al Wahda FC"
     },
     {
+      "name": "M. Mohebi",
+      "pos": "CM",
+      "rating": 71,
+      "club": "FC Rostov"
+    },
+    {
       "name": "H. Hosseini",
       "pos": "GK",
       "rating": 70,
@@ -4215,12 +4221,6 @@
       "pos": "CM",
       "rating": 68,
       "club": "Esteghlal FC"
-    },
-    {
-      "name": "M. Ghaedi",
-      "pos": "ST",
-      "rating": 68,
-      "club": ""
     },
     {
       "name": "A. Alipour",
@@ -4473,12 +4473,6 @@
       "club": "Shamrock Rovers"
     },
     {
-      "name": "Jovane Cabral",
-      "pos": "ST",
-      "rating": 77,
-      "club": "Cape Verde Islands"
-    },
-    {
       "name": "Hélio Varela",
       "pos": "CM",
       "rating": 77,
@@ -4489,6 +4483,12 @@
       "pos": "GK",
       "rating": 76,
       "club": "San Diego"
+    },
+    {
+      "name": "Jovane Cabral",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Cape Verde Islands"
     },
     {
       "name": "Wagner Pina",
@@ -4698,7 +4698,7 @@
     },
     {
       "name": "Ayman Yahya",
-      "pos": "ST",
+      "pos": "CM",
       "rating": 74,
       "club": "Al-Nassr"
     },
@@ -5409,16 +5409,16 @@
       "club": "Genoa"
     },
     {
-      "name": "A. Nusa",
-      "pos": "ST",
-      "rating": 80,
-      "club": "RB Leipzig"
-    },
-    {
       "name": "F. Bjørkan",
       "pos": "CB",
       "rating": 79,
       "club": "Bodo/Glimt"
+    },
+    {
+      "name": "A. Nusa",
+      "pos": "CM",
+      "rating": 79,
+      "club": "RB Leipzig"
     },
     {
       "name": "S. Tangvik",
@@ -6254,7 +6254,7 @@
     },
     {
       "name": "Mohannad Abu Taha",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 63,
       "club": "Jordan"
     },
@@ -6278,7 +6278,7 @@
     },
     {
       "name": "M. Abu Ghoush",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 63,
       "club": "Al Hussein"
     },
@@ -7275,12 +7275,6 @@
       "club": "Al-Qadisiyah FC"
     },
     {
-      "name": "A. Semenyo",
-      "pos": "ST",
-      "rating": 79,
-      "club": "Bournemouth"
-    },
-    {
       "name": "A. Boakye",
       "pos": "CM",
       "rating": 79,
@@ -7291,6 +7285,12 @@
       "pos": "GK",
       "rating": 78,
       "club": "FC ST. Gallen"
+    },
+    {
+      "name": "A. Semenyo",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Bournemouth"
     },
     {
       "name": "B. Thomas-Asante",
@@ -7408,7 +7408,7 @@
     },
     {
       "name": "E. Nuamah",
-      "pos": "ST",
+      "pos": "CM",
       "rating": 66,
       "club": "Ghana"
     },
@@ -7433,16 +7433,16 @@
       "club": "Lask Linz"
     },
     {
+      "name": "I. Díaz",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Leon"
+    },
+    {
       "name": "A. Londoño",
       "pos": "CM",
       "rating": 81,
       "club": "Universidad Catolica"
-    },
-    {
-      "name": "I. Díaz",
-      "pos": "CM",
-      "rating": 80,
-      "club": "Leon"
     },
     {
       "name": "C. Harvey",
@@ -7475,6 +7475,12 @@
       "club": "Al-Fayha"
     },
     {
+      "name": "C. Blackman",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Slovan Bratislava"
+    },
+    {
       "name": "J. Gutiérrez",
       "pos": "CB",
       "rating": 77,
@@ -7487,28 +7493,22 @@
       "club": "U.N.A.M. - Pumas"
     },
     {
+      "name": "J. Rodríguez",
+      "pos": "ST",
+      "rating": 77,
+      "club": "FC Juarez"
+    },
+    {
       "name": "C. Waterman",
       "pos": "ST",
       "rating": 77,
       "club": "Coquimbo Unido"
     },
     {
-      "name": "C. Blackman",
-      "pos": "CB",
-      "rating": 76,
-      "club": "Slovan Bratislava"
-    },
-    {
       "name": "A. Godoy",
       "pos": "CM",
       "rating": 76,
       "club": "San Diego"
-    },
-    {
-      "name": "J. Rodríguez",
-      "pos": "CM",
-      "rating": 76,
-      "club": "FC Juarez"
     },
     {
       "name": "J. Córdoba",
@@ -7530,7 +7530,7 @@
     },
     {
       "name": "A. Murillo",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 74,
       "club": "Marseille"
     },
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-17T16:54:02.243Z"
+  "_lastUpdated": "2026-06-18T09:19:04.695Z"
 }
