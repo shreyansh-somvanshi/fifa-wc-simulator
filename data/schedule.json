@@ -125,12 +125,14 @@
       "away": "SUI",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 4,
       "fixture_id": 1539005,
       "venue_name": "SoFi Stadium",
-      "venue_city": "Inglewood"
+      "venue_city": "Inglewood",
+      "away_form": 6.99,
+      "home_form": 6.2
     },
     {
       "id": "M008",
@@ -1763,5 +1765,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-18T18:15:00.426Z"
+  "lastUpdated": "2026-06-18T21:02:30.329Z"
 }
