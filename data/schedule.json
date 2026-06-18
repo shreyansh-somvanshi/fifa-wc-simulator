@@ -51,12 +51,14 @@
       "away": "RSA",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 1,
       "fixture_id": 1539004,
       "venue_name": "Mercedes-Benz Stadium",
-      "venue_city": "Atlanta"
+      "venue_city": "Atlanta",
+      "home_form": 6.73,
+      "away_form": 6.81
     },
     {
       "id": "M004",
@@ -128,7 +130,7 @@
       "away_score": null,
       "fixture_id": 1539005,
       "venue_name": "SoFi Stadium",
-      "venue_city": "Los Angeles"
+      "venue_city": "Inglewood"
     },
     {
       "id": "M008",
@@ -1761,5 +1763,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-18T15:24:38.778Z"
+  "lastUpdated": "2026-06-18T18:15:00.426Z"
 }
