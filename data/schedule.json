@@ -71,12 +71,14 @@
       "away": "MEX",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 0,
+      "away_score": 1,
       "fixture_id": 1489388,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara"
+      "venue_city": "Guadalajara",
+      "away_form": 6.63,
+      "home_form": 6.37
     },
     {
       "id": "M005",
@@ -145,8 +147,8 @@
       "away": "QAT",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 3,
+      "status": "played",
+      "home_score": 6,
       "away_score": 0,
       "fixture_id": 1489387,
       "venue_name": "BC Place",
@@ -1767,5 +1769,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-18T23:18:08.721Z"
+  "lastUpdated": "2026-06-19T02:17:18.774Z"
 }
