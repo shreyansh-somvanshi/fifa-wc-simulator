@@ -319,12 +319,14 @@
       "away": "SCO",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 1,
+      "away_score": 0,
       "fixture_id": 1489390,
       "venue_name": "Gillette Stadium",
-      "venue_city": "Boston"
+      "venue_city": "Boston",
+      "away_form": 6.44,
+      "home_form": 6.64
     },
     {
       "id": "M018",
@@ -1771,5 +1773,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-19T21:14:55.563Z"
+  "lastUpdated": "2026-06-19T22:31:01.725Z"
 }
