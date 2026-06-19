@@ -355,7 +355,7 @@
       "away": "USA",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
       "away_score": 2,
       "fixture_id": 1489391,
@@ -1771,5 +1771,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-19T19:58:10.738Z"
+  "lastUpdated": "2026-06-19T21:14:55.563Z"
 }
