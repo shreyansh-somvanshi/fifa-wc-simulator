@@ -71,7 +71,7 @@
       "away": "MEX",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
       "away_score": 1,
       "fixture_id": 1489388,
@@ -1769,5 +1769,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-19T02:17:18.774Z"
+  "lastUpdated": "2026-06-19T07:38:49.865Z"
 }
