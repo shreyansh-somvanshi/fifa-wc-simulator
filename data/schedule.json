@@ -319,7 +319,7 @@
       "away": "SCO",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 1,
       "away_score": 0,
       "fixture_id": 1489390,
@@ -1773,5 +1773,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-19T22:31:01.725Z"
+  "lastUpdated": "2026-06-20T00:09:18.369Z"
 }
