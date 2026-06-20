@@ -379,7 +379,7 @@
       "away": "TUR",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 1,
       "away_score": 0,
       "fixture_id": 1539006,
@@ -1777,5 +1777,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-20T04:51:28.294Z"
+  "lastUpdated": "2026-06-20T08:21:38.924Z"
 }
