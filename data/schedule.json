@@ -339,12 +339,14 @@
       "away": "HAI",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 3,
+      "away_score": 0,
       "fixture_id": 1489389,
       "venue_name": "Lincoln Financial Field",
-      "venue_city": "Philadelphia"
+      "venue_city": "Philadelphia",
+      "home_form": 7.41,
+      "away_form": 6.31
     },
     {
       "id": "M019",
@@ -377,12 +379,14 @@
       "away": "TUR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 1,
+      "away_score": 0,
       "fixture_id": 1539006,
       "venue_name": "Levi's Stadium",
-      "venue_city": "San Francisco Bay Area"
+      "venue_city": "Santa Clara",
+      "away_form": 6.85,
+      "home_form": 7.07
     },
     {
       "id": "M021",
@@ -1773,5 +1777,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-20T00:09:18.369Z"
+  "lastUpdated": "2026-06-20T04:51:28.294Z"
 }
