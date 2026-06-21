@@ -591,12 +591,14 @@
       "away": "TUN",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 4,
+      "away_score": 0,
       "fixture_id": 1489394,
       "venue_name": "Estadio BBVA",
-      "venue_city": "Monterrey"
+      "venue_city": "Monterrey",
+      "away_form": 6.21,
+      "home_form": 7.4
     },
     {
       "id": "M032",
@@ -1783,5 +1785,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-21T01:58:14.214Z"
+  "lastUpdated": "2026-06-21T06:59:06.666Z"
 }
