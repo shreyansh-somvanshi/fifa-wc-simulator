@@ -748,7 +748,7 @@
       "away_score": null,
       "fixture_id": 1489395,
       "venue_name": "SoFi Stadium",
-      "venue_city": "Los Angeles"
+      "venue_city": "Inglewood"
     },
     {
       "id": "M040",
@@ -837,9 +837,9 @@
       "away": "ESP",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
-      "away_score": 3,
+      "away_score": 4,
       "fixture_id": 1489397,
       "venue_name": "Mercedes-Benz Stadium",
       "venue_city": "Atlanta",
@@ -1787,5 +1787,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-21T17:05:18.144Z"
+  "lastUpdated": "2026-06-21T18:59:38.665Z"
 }
