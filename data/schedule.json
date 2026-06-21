@@ -571,12 +571,14 @@
       "away": "ECU",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 0,
+      "away_score": 0,
       "fixture_id": 1489392,
       "venue_name": "Arrowhead Stadium",
-      "venue_city": "Kansas City"
+      "venue_city": "Kansas City",
+      "away_form": 7.21,
+      "home_form": 7.02
     },
     {
       "id": "M031",
@@ -1781,5 +1783,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-20T23:08:45.621Z"
+  "lastUpdated": "2026-06-21T01:58:14.214Z"
 }
