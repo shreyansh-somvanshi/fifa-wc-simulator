@@ -201,6 +201,12 @@
       "club": "Chicago Fire"
     },
     {
+      "name": "R. Alvarado",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Guadalajara Chivas"
+    },
+    {
       "name": "G. Martínez",
       "pos": "ST",
       "rating": 79,
@@ -213,12 +219,6 @@
       "club": "Seattle Sounders"
     },
     {
-      "name": "R. Alvarado",
-      "pos": "CM",
-      "rating": 78,
-      "club": "Guadalajara Chivas"
-    },
-    {
       "name": "I. Reyes",
       "pos": "CB",
       "rating": 77,
@@ -226,7 +226,7 @@
     },
     {
       "name": "E. Álvarez",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 77,
       "club": "Fenerbahçe"
     },
@@ -530,7 +530,7 @@
     },
     {
       "name": "Kim Moon-Hwan",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 76,
       "club": "Daejeon Citizen"
     },
@@ -1039,6 +1039,12 @@
       "club": "Al-Duhail SC"
     },
     {
+      "name": "A. Al Oui",
+      "pos": "CB",
+      "rating": 70,
+      "club": "Al-Gharafa"
+    },
+    {
       "name": "Jassem Gaber",
       "pos": "CM",
       "rating": 70,
@@ -1094,12 +1100,6 @@
     },
     {
       "name": "A. Al Hussain",
-      "pos": "CB",
-      "rating": 63,
-      "club": ""
-    },
-    {
-      "name": "A. Al Oui",
       "pos": "CB",
       "rating": 63,
       "club": ""
@@ -1502,7 +1502,7 @@
     },
     {
       "name": "J. Casimir",
-      "pos": "ST",
+      "pos": "CM",
       "rating": 71,
       "club": "Auxerre"
     },
@@ -4363,12 +4363,6 @@
       "club": "Auckland"
     },
     {
-      "name": "M. Garbett",
-      "pos": "CM",
-      "rating": 74,
-      "club": "Peterborough"
-    },
-    {
       "name": "M. Boxall",
       "pos": "CB",
       "rating": 73,
@@ -4409,6 +4403,12 @@
       "pos": "CB",
       "rating": 71,
       "club": "Wellington Phoenix"
+    },
+    {
+      "name": "L. Rogerson",
+      "pos": "ST",
+      "rating": 71,
+      "club": "Auckland"
     },
     {
       "name": "K. Barbarouses",
@@ -6345,16 +6345,16 @@
       "club": "America de Cali"
     },
     {
+      "name": "J. Rodríguez",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Leon"
+    },
+    {
       "name": "J. Córdoba",
       "pos": "ST",
       "rating": 83,
       "club": "FC Krasnodar"
-    },
-    {
-      "name": "J. Rodríguez",
-      "pos": "CM",
-      "rating": 82,
-      "club": "Leon"
     },
     {
       "name": "J. Carrascal",
@@ -6795,6 +6795,12 @@
   ],
   "UZB": [
     {
+      "name": "Ruslanbek Jiyanov",
+      "pos": "CM",
+      "rating": 82,
+      "club": "Navbahor"
+    },
+    {
       "name": "E. Shomurodov",
       "pos": "ST",
       "rating": 82,
@@ -6909,12 +6915,6 @@
       "club": "Uzbekistan"
     },
     {
-      "name": "J. Masharipov",
-      "pos": "CM",
-      "rating": 63,
-      "club": "Esteghlal FC"
-    },
-    {
       "name": "S. Esanov",
       "pos": "CM",
       "rating": 63,
@@ -6928,7 +6928,7 @@
     },
     {
       "name": "B. Karimov",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 62,
       "club": "Surkhon"
     },
@@ -6960,8 +6960,8 @@
     },
     {
       "name": "M. Baturina",
-      "pos": "CM",
-      "rating": 82,
+      "pos": "ST",
+      "rating": 83,
       "club": "Como"
     },
     {
@@ -7025,6 +7025,12 @@
       "club": "Atalanta"
     },
     {
+      "name": "P. Sucic",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Inter"
+    },
+    {
       "name": "N. Vlasic",
       "pos": "CM",
       "rating": 77,
@@ -7035,12 +7041,6 @@
       "pos": "CM",
       "rating": 76,
       "club": "Real Sociedad"
-    },
-    {
-      "name": "P. Sucic",
-      "pos": "CM",
-      "rating": 76,
-      "club": "Inter"
     },
     {
       "name": "A. Budimir",
@@ -7074,8 +7074,8 @@
     },
     {
       "name": "J. Stanisic",
-      "pos": "CB",
-      "rating": 74,
+      "pos": "CM",
+      "rating": 75,
       "club": "Bayern München"
     },
     {
@@ -7219,6 +7219,12 @@
       "club": "Crystal Palace"
     },
     {
+      "name": "T. Chalobah",
+      "pos": "CB",
+      "rating": 75,
+      "club": "Chelsea"
+    },
+    {
       "name": "N. Oreilly",
       "pos": "CB",
       "rating": 75,
@@ -7241,12 +7247,6 @@
       "pos": "CM",
       "rating": 75,
       "club": "Manchester United"
-    },
-    {
-      "name": "T. Livramento",
-      "pos": "CB",
-      "rating": 73,
-      "club": "Newcastle"
     },
     {
       "name": "J. Henderson",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-19T09:34:27.708Z"
+  "_lastUpdated": "2026-06-21T09:02:41.836Z"
 }
