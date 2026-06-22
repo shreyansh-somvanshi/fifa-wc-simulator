@@ -1039,8 +1039,8 @@
       "fixture_id": 1539017,
       "venue_name": "Lincoln Financial Field",
       "venue_city": "Philadelphia",
-      "home_form": 6.75,
-      "away_form": 6.51
+      "home_form": 6.84,
+      "away_form": 6.68
     },
     {
       "id": "M055",
@@ -1797,5 +1797,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-22T21:38:21.328Z"
+  "lastUpdated": "2026-06-22T23:19:42.191Z"
 }
