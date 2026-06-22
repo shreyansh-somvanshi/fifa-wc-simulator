@@ -1757,6 +1757,18 @@
       "club": "Rangers"
     },
     {
+      "name": "K. Tierney",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Celtic"
+    },
+    {
+      "name": "S. McTominay",
+      "pos": "ST",
+      "rating": 79,
+      "club": "Napoli"
+    },
+    {
       "name": "R. Stewart",
       "pos": "ST",
       "rating": 79,
@@ -1769,12 +1781,6 @@
       "club": "Dinamo Zagreb"
     },
     {
-      "name": "K. Tierney",
-      "pos": "CB",
-      "rating": 78,
-      "club": "Celtic"
-    },
-    {
       "name": "J.  McGinn",
       "pos": "CM",
       "rating": 78,
@@ -1785,12 +1791,6 @@
       "pos": "CM",
       "rating": 78,
       "club": "Norwich"
-    },
-    {
-      "name": "S. McTominay",
-      "pos": "CM",
-      "rating": 78,
-      "club": "Napoli"
     },
     {
       "name": "C. Adams",
@@ -2011,16 +2011,16 @@
       "club": "Castellón"
     },
     {
-      "name": "N. Velupillay",
-      "pos": "ST",
-      "rating": 74,
-      "club": "Melbourne Victory"
-    },
-    {
       "name": "M. Degenek",
       "pos": "CB",
       "rating": 73,
       "club": "TSC Backa Topola"
+    },
+    {
+      "name": "N. Velupillay",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Melbourne Victory"
     },
     {
       "name": "J. Geria",
@@ -2048,8 +2048,8 @@
     },
     {
       "name": "M. Leckie",
-      "pos": "ST",
-      "rating": 71,
+      "pos": "CM",
+      "rating": 70,
       "club": "Melbourne City"
     }
   ],
@@ -2226,8 +2226,8 @@
     },
     {
       "name": "K. Yildiz",
-      "pos": "ST",
-      "rating": 84,
+      "pos": "CM",
+      "rating": 83,
       "club": "Juventus"
     },
     {
@@ -2235,12 +2235,6 @@
       "pos": "CM",
       "rating": 82,
       "club": "Real Madrid"
-    },
-    {
-      "name": "Y. Akgün",
-      "pos": "ST",
-      "rating": 82,
-      "club": "Galatasaray"
     },
     {
       "name": "C. Uzun",
@@ -2253,6 +2247,12 @@
       "pos": "ST",
       "rating": 81,
       "club": "Fenerbahçe"
+    },
+    {
+      "name": "Y. Akgün",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Galatasaray"
     },
     {
       "name": "U. Çakir",
@@ -2498,7 +2498,7 @@
     },
     {
       "name": "A. Robinson",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 74,
       "club": "Fulham"
     },
@@ -2784,7 +2784,7 @@
     },
     {
       "name": "P. Estupiñán",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 74,
       "club": "AC Milan"
     },
@@ -3058,7 +3058,7 @@
     },
     {
       "name": "A. Diallo",
-      "pos": "ST",
+      "pos": "CM",
       "rating": 77,
       "club": "Manchester United"
     },
@@ -3666,7 +3666,7 @@
     },
     {
       "name": "H. Mejbri",
-      "pos": "CM",
+      "pos": "ST",
       "rating": 75,
       "club": "Burnley"
     },
@@ -3684,7 +3684,7 @@
     },
     {
       "name": "A. Abdi",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 74,
       "club": "Nice"
     },
@@ -3732,7 +3732,7 @@
     },
     {
       "name": "Y. Valery",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 71,
       "club": "Sheffield Wednesday"
     },
@@ -4260,7 +4260,7 @@
     },
     {
       "name": "R. Rezaeian",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 66,
       "club": "Esteghlal FC"
     }
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-21T09:02:41.836Z"
+  "_lastUpdated": "2026-06-22T10:43:05.270Z"
 }
