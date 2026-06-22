@@ -763,12 +763,14 @@
       "away": "EGY",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 3,
       "fixture_id": 1489396,
       "venue_name": "BC Place",
-      "venue_city": "Vancouver"
+      "venue_city": "Vancouver",
+      "home_form": 6.68,
+      "away_form": 7.29
     },
     {
       "id": "M041",
@@ -821,7 +823,7 @@
       "away": "URU",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 2,
       "away_score": 2,
       "fixture_id": 1489398,
@@ -1791,5 +1793,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-21T23:50:52.452Z"
+  "lastUpdated": "2026-06-22T04:13:17.267Z"
 }
