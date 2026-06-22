@@ -1069,12 +1069,14 @@
       "away": "AUT",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 2,
+      "away_score": 0,
       "fixture_id": 1489399,
       "venue_name": "AT&T Stadium",
-      "venue_city": "Dallas"
+      "venue_city": "Arlington",
+      "home_form": 7.12,
+      "away_form": 6.59
     },
     {
       "id": "M057",
@@ -1793,5 +1795,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-22T15:35:44.822Z"
+  "lastUpdated": "2026-06-22T19:27:01.537Z"
 }
