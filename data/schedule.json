@@ -1015,9 +1015,9 @@
       "away": "SEN",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 3,
-      "away_score": 1,
+      "away_score": 2,
       "fixture_id": 1489401,
       "venue_name": "MetLife Stadium",
       "venue_city": "East Rutherford",
@@ -1055,12 +1055,14 @@
       "away": "JOR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 2,
+      "away_score": 1,
       "fixture_id": 1489400,
       "venue_name": "Levi's Stadium",
-      "venue_city": "San Francisco Bay Area"
+      "venue_city": "Santa Clara",
+      "away_form": 6.81,
+      "home_form": 6.91
     },
     {
       "id": "M056",
@@ -1799,5 +1801,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-23T01:30:18.536Z"
+  "lastUpdated": "2026-06-23T06:06:52.987Z"
 }
