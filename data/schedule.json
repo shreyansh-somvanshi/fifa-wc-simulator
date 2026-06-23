@@ -1247,8 +1247,8 @@
       "away": "UZB",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 3,
+      "status": "played",
+      "home_score": 5,
       "away_score": 0,
       "fixture_id": 1489404,
       "venue_name": "NRG Stadium",
@@ -1303,12 +1303,14 @@
       "away": "GHA",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 0,
+      "away_score": 0,
       "fixture_id": 1489402,
       "venue_name": "Gillette Stadium",
-      "venue_city": "Boston"
+      "venue_city": "Boston",
+      "home_form": 6.65,
+      "away_form": 6.63
     },
     {
       "id": "M069",
@@ -1803,5 +1805,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-23T18:20:02.663Z"
+  "lastUpdated": "2026-06-23T20:32:44.280Z"
 }
