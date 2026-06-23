@@ -1303,7 +1303,7 @@
       "away": "GHA",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
       "away_score": 0,
       "fixture_id": 1489402,
@@ -1805,5 +1805,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-23T20:32:44.280Z"
+  "lastUpdated": "2026-06-23T22:13:07.066Z"
 }
