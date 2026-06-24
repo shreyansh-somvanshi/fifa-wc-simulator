@@ -167,12 +167,14 @@
       "away": "QAT",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 2,
+      "away_score": 1,
       "fixture_id": 1539009,
       "venue_name": "Lumen Field",
-      "venue_city": "Seattle"
+      "venue_city": "Seattle",
+      "home_form": 6.84,
+      "away_form": 6.28
     },
     {
       "id": "M010",
@@ -185,12 +187,14 @@
       "away": "CAN",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 0,
+      "away_score": 0,
       "fixture_id": 1489408,
       "venue_name": "BC Place",
-      "venue_city": "Vancouver"
+      "venue_city": "Vancouver",
+      "home_form": 6.72,
+      "away_form": 6.68
     },
     {
       "id": "M011",
@@ -1809,5 +1813,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-24T17:54:17.833Z"
+  "lastUpdated": "2026-06-24T19:45:17.712Z"
 }
