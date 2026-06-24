@@ -1267,12 +1267,14 @@
       "away": "COD",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 0,
+      "away_score": 0,
       "fixture_id": 1539008,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara"
+      "venue_city": "Guadalajara",
+      "home_form": 6.94,
+      "away_form": 6.63
     },
     {
       "id": "M067",
@@ -1285,8 +1287,8 @@
       "away": "PAN",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 0,
+      "status": "played",
+      "home_score": 1,
       "away_score": 0,
       "fixture_id": 1489403,
       "venue_name": "BMO Field",
@@ -1807,5 +1809,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-23T23:35:11.158Z"
+  "lastUpdated": "2026-06-24T03:34:01.994Z"
 }
