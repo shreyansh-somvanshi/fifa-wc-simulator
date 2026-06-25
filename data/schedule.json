@@ -91,12 +91,14 @@
       "away": "KOR",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 1,
+      "away_score": 0,
       "fixture_id": 1489407,
       "venue_name": "Estadio BBVA",
-      "venue_city": "Monterrey"
+      "venue_city": "Monterrey",
+      "home_form": 7.2,
+      "away_form": 6.86
     },
     {
       "id": "M006",
@@ -109,12 +111,14 @@
       "away": "MEX",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "played",
+      "home_score": 0,
+      "away_score": 3,
       "fixture_id": 1539010,
       "venue_name": "Estadio Azteca",
-      "venue_city": "Mexico City"
+      "venue_city": "Mexico City",
+      "home_form": 6.5,
+      "away_form": 7.13
     },
     {
       "id": "M007",
@@ -1817,5 +1821,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-25T00:13:03.927Z"
+  "lastUpdated": "2026-06-25T04:45:24.854Z"
 }
