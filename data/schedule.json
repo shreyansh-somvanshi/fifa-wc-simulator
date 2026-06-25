@@ -16,7 +16,7 @@
       "away_score": 2,
       "fixture_id": 1538999,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara",
+      "venue_city": "Zapopan",
       "away_form": 7.26,
       "home_form": 6.67
     },
@@ -35,7 +35,7 @@
       "home_score": 2,
       "away_score": 0,
       "fixture_id": 1489369,
-      "venue_name": "Estadio Azteca",
+      "venue_name": "Estadio Banorte",
       "venue_city": "Mexico City",
       "home_form": 7.29,
       "away_form": 6.18
@@ -76,7 +76,7 @@
       "away_score": 1,
       "fixture_id": 1489388,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara",
+      "venue_city": "Zapopan",
       "away_form": 6.63,
       "home_form": 6.37
     },
@@ -115,7 +115,7 @@
       "home_score": 0,
       "away_score": 3,
       "fixture_id": 1539010,
-      "venue_name": "Estadio Azteca",
+      "venue_name": "Estadio Banorte",
       "venue_city": "Mexico City",
       "home_form": 6.5,
       "away_form": 7.13
@@ -920,7 +920,7 @@
       "away_score": null,
       "fixture_id": 1489417,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara"
+      "venue_city": "Zapopan"
     },
     {
       "id": "M048",
@@ -1187,7 +1187,7 @@
       "home_score": 3,
       "away_score": 1,
       "fixture_id": 1489386,
-      "venue_name": "Estadio Azteca",
+      "venue_name": "Estadio Banorte",
       "venue_city": "Mexico City",
       "away_form": 6.45,
       "home_form": 6.76
@@ -1284,7 +1284,7 @@
       "away_score": 0,
       "fixture_id": 1539008,
       "venue_name": "Estadio Akron",
-      "venue_city": "Guadalajara",
+      "venue_city": "Zapopan",
       "home_form": 6.94,
       "away_form": 6.63
     },
@@ -1821,5 +1821,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-25T04:45:24.854Z"
+  "lastUpdated": "2026-06-25T08:22:53.892Z"
 }
