@@ -1088,7 +1088,7 @@
     },
     {
       "name": "G. Laye",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 67,
       "club": "Al-Arabi SC"
     },
@@ -1915,16 +1915,16 @@
       "club": "Randers FC"
     },
     {
+      "name": "J. Bos",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Feyenoord"
+    },
+    {
       "name": "M. Ryan",
       "pos": "GK",
       "rating": 78,
       "club": "Levante"
-    },
-    {
-      "name": "J. Bos",
-      "pos": "CB",
-      "rating": 78,
-      "club": "Feyenoord"
     },
     {
       "name": "A. Hrustic",
@@ -6638,8 +6638,8 @@
   "POR": [
     {
       "name": "João Félix",
-      "pos": "ST",
-      "rating": 92,
+      "pos": "CM",
+      "rating": 90,
       "club": "Al-Nassr"
     },
     {
@@ -6891,12 +6891,6 @@
       "club": "Neftchi"
     },
     {
-      "name": "O. Orunov",
-      "pos": "ST",
-      "rating": 64,
-      "club": "Persepolis FC"
-    },
-    {
       "name": "A. Amonov",
       "pos": "ST",
       "rating": 64,
@@ -6919,6 +6913,12 @@
       "pos": "CM",
       "rating": 63,
       "club": ""
+    },
+    {
+      "name": "O. Orunov",
+      "pos": "CM",
+      "rating": 63,
+      "club": "Persepolis FC"
     },
     {
       "name": "D. Khamdamov",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-24T08:26:35.752Z"
+  "_lastUpdated": "2026-06-26T08:36:16.131Z"
 }
