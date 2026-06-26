@@ -451,12 +451,12 @@
       "away": "USA",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 2,
+      "status": "played",
+      "home_score": 3,
       "away_score": 2,
       "fixture_id": 1539012,
       "venue_name": "SoFi Stadium",
-      "venue_city": "Los Angeles",
+      "venue_city": "Inglewood",
       "home_form": 6.64,
       "away_form": 6.62
     },
@@ -471,12 +471,12 @@
       "away": "PAR",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
       "away_score": 0,
       "fixture_id": 1489411,
       "venue_name": "Levi's Stadium",
-      "venue_city": "San Francisco Bay Area",
+      "venue_city": "Santa Clara",
       "away_form": 6.54,
       "home_form": 6.52
     },
@@ -656,7 +656,7 @@
       "away_score": 1,
       "fixture_id": 1539011,
       "venue_name": "AT&T Stadium",
-      "venue_city": "Dallas",
+      "venue_city": "Arlington",
       "home_form": 6.61,
       "away_form": 6.6
     },
@@ -1833,5 +1833,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-26T03:39:49.385Z"
+  "lastUpdated": "2026-06-26T07:52:42.699Z"
 }
