@@ -1386,7 +1386,7 @@
       "away_score": null,
       "fixture_id": 1489422,
       "venue_name": "MetLife Stadium",
-      "venue_city": "New York New Jersey"
+      "venue_city": "East Rutherford"
     },
     {
       "id": "M071",
@@ -1845,5 +1845,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-27T18:03:03.352Z"
+  "lastUpdated": "2026-06-27T19:52:46.724Z"
 }
