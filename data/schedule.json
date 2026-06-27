@@ -731,12 +731,14 @@
       "away": "NZL",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 3,
+      "away_score": 0,
       "fixture_id": 1489415,
       "venue_name": "BC Place",
-      "venue_city": "Vancouver"
+      "venue_city": "Vancouver",
+      "away_form": 6.51,
+      "home_form": 7.21
     },
     {
       "id": "M038",
@@ -749,12 +751,14 @@
       "away": "IRN",
       "home_label": null,
       "away_label": null,
-      "status": "scheduled",
-      "home_score": null,
-      "away_score": null,
+      "status": "live",
+      "home_score": 1,
+      "away_score": 1,
       "fixture_id": 1489414,
       "venue_name": "Lumen Field",
-      "venue_city": "Seattle"
+      "venue_city": "Seattle",
+      "home_form": 6.75,
+      "away_form": 6.65
     },
     {
       "id": "M039",
@@ -927,12 +931,14 @@
       "away": "URU",
       "home_label": null,
       "away_label": null,
-      "status": "live",
-      "home_score": 0,
+      "status": "played",
+      "home_score": 1,
       "away_score": 0,
       "fixture_id": 1489417,
       "venue_name": "Estadio Akron",
-      "venue_city": "Zapopan"
+      "venue_city": "Zapopan",
+      "away_form": 6.59,
+      "home_form": 7.02
     },
     {
       "id": "M048",
@@ -945,12 +951,14 @@
       "away": "KSA",
       "home_label": null,
       "away_label": null,
-      "status": "live",
+      "status": "played",
       "home_score": 0,
       "away_score": 0,
       "fixture_id": 1489413,
       "venue_name": "NRG Stadium",
-      "venue_city": "Houston"
+      "venue_city": "Houston",
+      "home_form": 7.03,
+      "away_form": 6.99
     },
     {
       "id": "M049",
@@ -1837,5 +1845,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-27T00:06:23.503Z"
+  "lastUpdated": "2026-06-27T04:34:34.175Z"
 }
