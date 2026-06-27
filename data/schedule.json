@@ -1252,7 +1252,7 @@
       "away_score": null,
       "fixture_id": 1489419,
       "venue_name": "Hard Rock Stadium",
-      "venue_city": "Miami"
+      "venue_city": "Miami Gardens"
     },
     {
       "id": "M064",
@@ -1364,11 +1364,13 @@
       "home_label": null,
       "away_label": null,
       "status": "live",
-      "home_score": 0,
-      "away_score": 0,
+      "home_score": 1,
+      "away_score": 1,
       "fixture_id": 1489420,
       "venue_name": "Lincoln Financial Field",
-      "venue_city": "Philadelphia"
+      "venue_city": "Philadelphia",
+      "home_form": 6.87,
+      "away_form": 6.49
     },
     {
       "id": "M070",
@@ -1383,10 +1385,12 @@
       "away_label": null,
       "status": "live",
       "home_score": 0,
-      "away_score": 0,
+      "away_score": 2,
       "fixture_id": 1489422,
       "venue_name": "MetLife Stadium",
-      "venue_city": "East Rutherford"
+      "venue_city": "East Rutherford",
+      "home_form": 6.44,
+      "away_form": 7.12
     },
     {
       "id": "M071",
@@ -1845,5 +1849,5 @@
       "status": "scheduled"
     }
   ],
-  "lastUpdated": "2026-06-27T21:03:28.169Z"
+  "lastUpdated": "2026-06-27T22:35:47.968Z"
 }
