@@ -318,14 +318,14 @@
   "RSA": [
     {
       "name": "R. Mofokeng",
-      "pos": "ST",
-      "rating": 86,
+      "pos": "CM",
+      "rating": 85,
       "club": "Orlando Pirates"
     },
     {
       "name": "O. Appollis",
-      "pos": "ST",
-      "rating": 83,
+      "pos": "CM",
+      "rating": 82,
       "club": "Orlando Pirates"
     },
     {
@@ -468,8 +468,8 @@
     },
     {
       "name": "T. Maseko",
-      "pos": "ST",
-      "rating": 69,
+      "pos": "CM",
+      "rating": 68,
       "club": "AEL"
     }
   ],
@@ -2225,16 +2225,16 @@
       "club": "Beşiktaş"
     },
     {
+      "name": "A. Güler",
+      "pos": "ST",
+      "rating": 83,
+      "club": "Real Madrid"
+    },
+    {
       "name": "K. Yildiz",
       "pos": "CM",
       "rating": 83,
       "club": "Juventus"
-    },
-    {
-      "name": "A. Güler",
-      "pos": "CM",
-      "rating": 82,
-      "club": "Real Madrid"
     },
     {
       "name": "C. Uzun",
@@ -2309,16 +2309,16 @@
       "club": "1899 Hoffenheim"
     },
     {
+      "name": "E. Elmali",
+      "pos": "CM",
+      "rating": 74,
+      "club": "Galatasaray"
+    },
+    {
       "name": "Z. Çelik",
       "pos": "CB",
       "rating": 73,
       "club": "AS Roma"
-    },
-    {
-      "name": "E. Elmali",
-      "pos": "CB",
-      "rating": 73,
-      "club": "Galatasaray"
     },
     {
       "name": "F. Kadioglu",
@@ -2491,6 +2491,12 @@
       "club": "Bournemouth"
     },
     {
+      "name": "B. Aaronson",
+      "pos": "ST",
+      "rating": 75,
+      "club": "Leeds"
+    },
+    {
       "name": "M. McKenzie",
       "pos": "CB",
       "rating": 74,
@@ -2507,12 +2513,6 @@
       "pos": "ST",
       "rating": 74,
       "club": "Marseille"
-    },
-    {
-      "name": "B. Aaronson",
-      "pos": "CM",
-      "rating": 74,
-      "club": "Leeds"
     },
     {
       "name": "T. Ream",
@@ -2705,12 +2705,6 @@
       "club": "LDU de Quito"
     },
     {
-      "name": "N. Angulo",
-      "pos": "ST",
-      "rating": 80,
-      "club": "Anderlecht"
-    },
-    {
       "name": "G. Plata",
       "pos": "ST",
       "rating": 80,
@@ -2721,6 +2715,12 @@
       "pos": "CM",
       "rating": 79,
       "club": "Chelsea"
+    },
+    {
+      "name": "N. Angulo",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Anderlecht"
     },
     {
       "name": "J. Alcívar",
@@ -2863,16 +2863,16 @@
       "club": "FSV Mainz 05"
     },
     {
+      "name": "D. Raum",
+      "pos": "CM",
+      "rating": 83,
+      "club": "RB Leipzig"
+    },
+    {
       "name": "D. Undav",
       "pos": "ST",
       "rating": 83,
       "club": "VfB Stuttgart"
-    },
-    {
-      "name": "D. Raum",
-      "pos": "CB",
-      "rating": 82,
-      "club": "RB Leipzig"
     },
     {
       "name": "J. Leweling",
@@ -2935,6 +2935,12 @@
       "club": "Borussia Dortmund"
     },
     {
+      "name": "F. Wirtz",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Liverpool"
+    },
+    {
       "name": "N. Woltemade",
       "pos": "ST",
       "rating": 77,
@@ -2947,10 +2953,10 @@
       "club": "Newcastle"
     },
     {
-      "name": "F. Wirtz",
-      "pos": "CM",
+      "name": "J. Musiala",
+      "pos": "ST",
       "rating": 76,
-      "club": "Liverpool"
+      "club": "Bayern München"
     },
     {
       "name": "M. Beier",
@@ -2975,12 +2981,6 @@
       "pos": "CM",
       "rating": 75,
       "club": "RB Leipzig"
-    },
-    {
-      "name": "J. Musiala",
-      "pos": "CM",
-      "rating": 74,
-      "club": "Bayern München"
     },
     {
       "name": "A. Rüdiger",
@@ -3010,8 +3010,8 @@
     },
     {
       "name": "N. Pépé",
-      "pos": "ST",
-      "rating": 81,
+      "pos": "CM",
+      "rating": 80,
       "club": "Villarreal"
     },
     {
@@ -3209,6 +3209,12 @@
       "club": "FC Copenhagen"
     },
     {
+      "name": "R. Doan",
+      "pos": "ST",
+      "rating": 77,
+      "club": "Eintracht Frankfurt"
+    },
+    {
       "name": "K. Sano",
       "pos": "CM",
       "rating": 77,
@@ -3231,12 +3237,6 @@
       "pos": "CB",
       "rating": 76,
       "club": "St. Truiden"
-    },
-    {
-      "name": "R. Doan",
-      "pos": "CM",
-      "rating": 76,
-      "club": "Eintracht Frankfurt"
     },
     {
       "name": "D. Kamada",
@@ -3300,8 +3300,8 @@
     },
     {
       "name": "Y. Sugawara",
-      "pos": "CB",
-      "rating": 70,
+      "pos": "CM",
+      "rating": 71,
       "club": "Werder Bremen"
     },
     {
@@ -3478,8 +3478,8 @@
   "SWE": [
     {
       "name": "E. Stroud",
-      "pos": "CM",
-      "rating": 84,
+      "pos": "CB",
+      "rating": 83,
       "club": "Mjallby AIF"
     },
     {
@@ -3489,16 +3489,16 @@
       "club": "IF Elfsborg"
     },
     {
-      "name": "H. Johansson",
-      "pos": "CM",
-      "rating": 82,
-      "club": "Mjallby AIF"
-    },
-    {
       "name": "A. Bernhardsson",
       "pos": "CM",
       "rating": 82,
       "club": "Holstein Kiel"
+    },
+    {
+      "name": "H. Johansson",
+      "pos": "CB",
+      "rating": 81,
+      "club": "Mjallby AIF"
     },
     {
       "name": "V. Johansson",
@@ -3610,7 +3610,7 @@
     },
     {
       "name": "V. Lindelöf",
-      "pos": "CB",
+      "pos": "CM",
       "rating": 72,
       "club": "Aston Villa"
     },
@@ -3708,7 +3708,7 @@
     },
     {
       "name": "E. Skhiri",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 73,
       "club": "Eintracht Frankfurt"
     },
@@ -4437,12 +4437,6 @@
       "club": "Omonia Nicosia"
     },
     {
-      "name": "João Paulo",
-      "pos": "CM",
-      "rating": 78,
-      "club": "Oţelul"
-    },
-    {
       "name": "Yannick Semedo",
       "pos": "CM",
       "rating": 78,
@@ -4471,6 +4465,12 @@
       "pos": "CB",
       "rating": 77,
       "club": "Shamrock Rovers"
+    },
+    {
+      "name": "João Paulo",
+      "pos": "CB",
+      "rating": 77,
+      "club": "Oţelul"
     },
     {
       "name": "Hélio Varela",
@@ -4619,12 +4619,6 @@
       "club": "Al-Nassr"
     },
     {
-      "name": "Sultan Mandash",
-      "pos": "ST",
-      "rating": 79,
-      "club": "Al Taawon"
-    },
-    {
       "name": "Abdullah Al Hamdan",
       "pos": "ST",
       "rating": 79,
@@ -4638,9 +4632,15 @@
     },
     {
       "name": "Mohamed Kanno",
-      "pos": "CM",
+      "pos": "ST",
       "rating": 78,
       "club": "Al-Hilal Saudi FC"
+    },
+    {
+      "name": "Sultan Mandash",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Al Taawon"
     },
     {
       "name": "Nawaf Boushal",
@@ -4742,8 +4742,8 @@
   "ESP": [
     {
       "name": "Lamine Yamal",
-      "pos": "ST",
-      "rating": 95,
+      "pos": "CM",
+      "rating": 93,
       "club": "Barcelona"
     },
     {
@@ -4771,16 +4771,16 @@
       "club": "Manchester City"
     },
     {
-      "name": "Álex Baena",
-      "pos": "ST",
-      "rating": 81,
-      "club": "Atletico Madrid"
-    },
-    {
       "name": "Mikel Oyarzabal",
       "pos": "ST",
       "rating": 81,
       "club": "Real Sociedad"
+    },
+    {
+      "name": "Álex Baena",
+      "pos": "CM",
+      "rating": 80,
+      "club": "Atletico Madrid"
     },
     {
       "name": "Fabián Ruiz",
@@ -5433,12 +5433,6 @@
       "club": "Rangers"
     },
     {
-      "name": "F. Aursnes",
-      "pos": "CM",
-      "rating": 77,
-      "club": "Benfica"
-    },
-    {
       "name": "M. Ødegaard",
       "pos": "CM",
       "rating": 77,
@@ -5449,6 +5443,12 @@
       "pos": "ST",
       "rating": 77,
       "club": "Atletico Madrid"
+    },
+    {
+      "name": "F. Aursnes",
+      "pos": "CB",
+      "rating": 76,
+      "club": "Benfica"
     },
     {
       "name": "J. Ryerson",
@@ -5488,7 +5488,7 @@
     },
     {
       "name": "Oscar Bobb",
-      "pos": "CM",
+      "pos": "ST",
       "rating": 73,
       "club": "Fulham"
     },
@@ -7377,12 +7377,6 @@
       "club": "Athletic Club"
     },
     {
-      "name": "K. Sulemana",
-      "pos": "ST",
-      "rating": 74,
-      "club": "Atalanta"
-    },
-    {
       "name": "E. Owusu",
       "pos": "CM",
       "rating": 73,
@@ -7393,6 +7387,12 @@
       "pos": "CM",
       "rating": 73,
       "club": "Villarreal"
+    },
+    {
+      "name": "K. Sulemana",
+      "pos": "CM",
+      "rating": 73,
+      "club": "Atalanta"
     },
     {
       "name": "J. Ayew",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-06-27T07:54:35.744Z"
+  "_lastUpdated": "2026-06-28T08:26:30.937Z"
 }
