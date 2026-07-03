@@ -2450,7 +2450,7 @@
     },
     {
       "name": "S. Dest",
-      "pos": "CM",
+      "pos": "ST",
       "rating": 76,
       "club": "PSV Eindhoven"
     },
@@ -3591,12 +3591,6 @@
       "club": "Udinese"
     },
     {
-      "name": "A. Elanga",
-      "pos": "ST",
-      "rating": 73,
-      "club": "Newcastle"
-    },
-    {
       "name": "H. Ekdal",
       "pos": "CB",
       "rating": 72,
@@ -3625,6 +3619,12 @@
       "pos": "CM",
       "rating": 72,
       "club": "VfL Wolfsburg"
+    },
+    {
+      "name": "A. Elanga",
+      "pos": "CM",
+      "rating": 72,
+      "club": "Newcastle"
     },
     {
       "name": "K. Nordfeldt",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-01T08:54:45.782Z"
+  "_lastUpdated": "2026-07-03T08:15:40.011Z"
 }
