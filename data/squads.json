@@ -5592,7 +5592,7 @@
     },
     {
       "name": "P. Ciss",
-      "pos": "CM",
+      "pos": "CB",
       "rating": 77,
       "club": "Rayo Vallecano"
     },
@@ -5719,6 +5719,12 @@
       "club": "Marseille"
     },
     {
+      "name": "H. Aouar",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Al-Ittihad FC"
+    },
+    {
       "name": "O. Benbot",
       "pos": "GK",
       "rating": 80,
@@ -5731,10 +5737,10 @@
       "club": "Borussia Dortmund"
     },
     {
-      "name": "H. Aouar",
-      "pos": "CM",
+      "name": "I. Maza",
+      "pos": "ST",
       "rating": 80,
-      "club": "Al-Ittihad FC"
+      "club": "Bayer Leverkusen"
     },
     {
       "name": "Y. Titraoui",
@@ -5753,12 +5759,6 @@
       "pos": "CM",
       "rating": 79,
       "club": "Lille"
-    },
-    {
-      "name": "I. Maza",
-      "pos": "CM",
-      "rating": 79,
-      "club": "Bayer Leverkusen"
     },
     {
       "name": "R. Zerrouki",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-03T08:15:40.011Z"
+  "_lastUpdated": "2026-07-04T07:52:36.495Z"
 }
