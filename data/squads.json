@@ -4029,12 +4029,6 @@
       "club": "Al Ahly"
     },
     {
-      "name": "Omar Marmoush",
-      "pos": "ST",
-      "rating": 77,
-      "club": "Manchester City"
-    },
-    {
       "name": "Karim Hafez",
       "pos": "CB",
       "rating": 76,
@@ -4057,6 +4051,12 @@
       "pos": "ST",
       "rating": 76,
       "club": "FC Nordsjaelland"
+    },
+    {
+      "name": "Omar Marmoush",
+      "pos": "CM",
+      "rating": 76,
+      "club": "Manchester City"
     },
     {
       "name": "H. Hassan",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-04T07:52:36.495Z"
+  "_lastUpdated": "2026-07-06T09:07:02.966Z"
 }
