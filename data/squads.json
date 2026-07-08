@@ -1319,18 +1319,6 @@
       "club": "Manchester United"
     },
     {
-      "name": "Gabriel Martinelli",
-      "pos": "ST",
-      "rating": 80,
-      "club": "Arsenal"
-    },
-    {
-      "name": "Rayan",
-      "pos": "ST",
-      "rating": 80,
-      "club": "Vasco DA Gama"
-    },
-    {
       "name": "Thiago",
       "pos": "ST",
       "rating": 80,
@@ -1355,6 +1343,12 @@
       "club": "Zenit"
     },
     {
+      "name": "Rayan",
+      "pos": "CM",
+      "rating": 79,
+      "club": "Vasco DA Gama"
+    },
+    {
       "name": "Danilo",
       "pos": "CB",
       "rating": 78,
@@ -1371,6 +1365,12 @@
       "pos": "ST",
       "rating": 78,
       "club": "Zenit"
+    },
+    {
+      "name": "Gabriel Martinelli",
+      "pos": "CM",
+      "rating": 78,
+      "club": "Arsenal"
     },
     {
       "name": "Bremer",
@@ -3865,12 +3865,6 @@
       "club": "Lille"
     },
     {
-      "name": "D. Lukebakio",
-      "pos": "ST",
-      "rating": 78,
-      "club": "Benfica"
-    },
-    {
       "name": "L. Trossard",
       "pos": "CM",
       "rating": 78,
@@ -3887,6 +3881,12 @@
       "pos": "CM",
       "rating": 77,
       "club": "Aston Villa"
+    },
+    {
+      "name": "D. Lukebakio",
+      "pos": "CM",
+      "rating": 77,
+      "club": "Benfica"
     },
     {
       "name": "S. Lammens",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-07T08:29:44.018Z"
+  "_lastUpdated": "2026-07-08T07:35:40.948Z"
 }
