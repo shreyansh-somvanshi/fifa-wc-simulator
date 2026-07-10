@@ -7153,16 +7153,16 @@
       "club": "Real Madrid"
     },
     {
+      "name": "M. Rashford",
+      "pos": "ST",
+      "rating": 81,
+      "club": "Barcelona"
+    },
+    {
       "name": "B. Saka",
       "pos": "CM",
       "rating": 80,
       "club": "Arsenal"
-    },
-    {
-      "name": "M. Rashford",
-      "pos": "CM",
-      "rating": 79,
-      "club": "Barcelona"
     },
     {
       "name": "J. Trafford",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-08T07:35:40.948Z"
+  "_lastUpdated": "2026-07-10T08:27:41.960Z"
 }
