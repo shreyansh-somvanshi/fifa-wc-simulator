@@ -1599,6 +1599,12 @@
       "club": "PSV Eindhoven"
     },
     {
+      "name": "B. El Khannouss",
+      "pos": "ST",
+      "rating": 80,
+      "club": "VfB Stuttgart"
+    },
+    {
       "name": "Gessime Yassine",
       "pos": "ST",
       "rating": 80,
@@ -1615,12 +1621,6 @@
       "pos": "CB",
       "rating": 79,
       "club": "Genk"
-    },
-    {
-      "name": "B. El Khannouss",
-      "pos": "CM",
-      "rating": 79,
-      "club": "VfB Stuttgart"
     },
     {
       "name": "A. Tagnaouti",
@@ -7583,5 +7583,5 @@
       "club": "Independiente de La Chorrera"
     }
   ],
-  "_lastUpdated": "2026-07-11T07:16:10.192Z"
+  "_lastUpdated": "2026-07-12T07:33:46.234Z"
 }
